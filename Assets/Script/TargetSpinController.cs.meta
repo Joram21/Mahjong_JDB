@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 14e5d8ebc4dc9574d95a8403ea3fbe42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FeaturePanel: {instanceID: 0}
+  - uiElements: {instanceID: 0}
+  - tenSymbol: {fileID: 11400000, guid: f918003bcce39f14b86d2e3585f6b1c3, type: 2}
+  - jackSymbol: {fileID: 11400000, guid: f94b9c6b5a4811a47ad9a58390f82b9b, type: 2}
+  - queenSymbol: {fileID: 11400000, guid: 7b5f8a7bacd1ff045a6ef8b7d3778459, type: 2}
+  - kingSymbol: {fileID: 11400000, guid: e25f5c6c0f786eb4f815526bc1e00bd6, type: 2}
+  - freeSpinSymbol: {fileID: 11400000, guid: a6d3af0a4778b1946986fe87b779d4b5, type: 2}
+  - wildSymbol: {fileID: 11400000, guid: fdfa1f279e6217149a11a1e3b2714b71, type: 2}
+  - RedDragonSymbol: {fileID: 11400000, guid: c8f00d48fdb6a3443876b70d56ccaed4, type: 2}
+  - GreenDragonSymbol: {fileID: 11400000, guid: af62766f5863cbb409176f2486ce3edc, type: 2}
+  - BlackDragonSymbol: {fileID: 11400000, guid: 96a710375ec8bb04198a6066c8ac5e0d, type: 2}
+  - WhiteDragonSymbol: {fileID: 11400000, guid: 4d32f741a6a14b84c86a4a75415d32f7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

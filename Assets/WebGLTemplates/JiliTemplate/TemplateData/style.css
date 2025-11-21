@@ -1,0 +1,110 @@
+body {
+    padding: 0;
+    margin: 0
+}
+
+#unity-container {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+#unity-canvas {
+    width: 100%;
+    height: 100%;
+    background: #000000
+}
+
+#unity-loading-bar {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: none
+}
+
+
+#unity-logo {
+    width: 158px;
+    height: 70px;
+    background: url('unity-logo-light.png')
+}
+
+#unity-progress-bar-back {
+    margin-left: inherit;
+    margin-right: inherit;
+    width: 130px;
+    height: 6px;
+    margin-top: 0px;
+    background: url('progress-bar-empty-back.png')
+}
+
+#unity-progress-bar-empty {
+    margin-left: inherit;
+    margin-right: inherit;
+    width: 130px;
+    height: 6px;
+    margin-top: 0px;
+    background: url('progress-bar-empty-light.png')
+}
+
+#unity-progress-bar-full {
+    width: 0%;
+    height: 6px;
+    margin-top: 0px;
+    background: url('progress-bar-full-light.png')
+}
+
+#unity-warning {
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    transform: translate(-50%);
+    background: white;
+    padding: 10px;
+    display: none
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    width: 0%;
+}
+
+    .box img {
+        max-width: 50%;
+        width: 10%;
+        height: 0; /* vary this to your needs ie auto, 100%, etc */
+        margin: 0 auto;
+    }
+
+@media (max-width: 720px) {
+}
+
+
+@media (max-width: 720px) {
+    body {
+        background: lightblue;
+    }
+
+    #unity-loading-bar {
+        scale: 0.7;
+        transform: translate(-70%, -50%);
+        //max-width:;
+        //width: 360;
+    }
+    /*
+        #unity-loading-bar img {
+            width: 80px;
+            position: absolute;
+            left: 50%;
+            top: -40px;
+            transform: translate(-50%);
+        }*/
+
+}

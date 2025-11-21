@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: 377b989f80dc3954ea16d055fcf9ec4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2172888380750383915
+    second: Free_Desc_Draw_EN_0
+  - first:
+      213: -2708695415206643699
+    second: Free_Desc_Draw_EN_1
+  - first:
+      213: 6335648412468077016
+    second: Free_Desc_Draw_EN_2
+  - first:
+      213: -4810241742835446423
+    second: Free_Desc_Draw_EN_3
+  - first:
+      213: 2400050273106920130
+    second: Free_Desc_Draw_EN_4
+  - first:
+      213: -7039342849716698110
+    second: Free_Desc_Draw_EN_5
+  - first:
+      213: 4131625656079860888
+    second: Free_Desc_Draw_EN_6
+  - first:
+      213: -1101971581007650908
+    second: Free_Desc_Draw_EN_7
+  - first:
+      213: 1672515716567639246
+    second: Free_Desc_Draw_EN_8
+  - first:
+      213: 5168486418351818884
+    second: Free_Desc_Draw_EN_9
+  - first:
+      213: -7299277498545520633
+    second: Free_Desc_Draw_EN_10
+  - first:
+      213: -7925652551112842416
+    second: Free_Desc_Draw_EN_11
+  - first:
+      213: -8493542095233399825
+    second: Free_Desc_Draw_EN_12
+  - first:
+      213: -5349757290975427727
+    second: Free_Desc_Draw_EN_13
+  - first:
+      213: 174335955380212024
+    second: Free_Desc_Draw_EN_14
+  - first:
+      213: -4506802973641506556
+    second: Free_Desc_Draw_EN_15
+  - first:
+      213: -1932914276383505742
+    second: Free_Desc_Draw_EN_16
+  - first:
+      213: 540131371870120907
+    second: Free_Desc_Draw_EN_17
+  - first:
+      213: -686769723298928571
+    second: Free_Desc_Draw_EN_18
+  - first:
+      213: -6771221487050681287
+    second: Free_Desc_Draw_EN_19
+  - first:
+      213: -5856671030725908828
+    second: Free_Desc_Draw_EN_20
+  - first:
+      213: -3854850875064197040
+    second: Free_Desc_Draw_EN_21
+  - first:
+      213: 2891820899028956734
+    second: Free_Desc_Draw_EN_22
+  - first:
+      213: 3440184173105972583
+    second: Free_Desc_Draw_EN_23
+  - first:
+      213: -5444645455523133786
+    second: Free_Desc_Draw_EN_24
+  - first:
+      213: -3096173009501016368
+    second: Free_Desc_Draw_EN_25
+  - first:
+      213: 8086099081028388967
+    second: Free_Desc_Draw_EN_26
+  - first:
+      213: 883750978122304899
+    second: Free_Desc_Draw_EN_27
+  - first:
+      213: 7623089122571438580
+    second: Free_Desc_Draw_EN_28
+  - first:
+      213: -8141885220157945517
+    second: Free_Desc_Draw_EN_29
+  - first:
+      213: -1810681956184403064
+    second: Free_Desc_Draw_EN_30
+  - first:
+      213: -4494952145527533556
+    second: Free_Desc_Draw_EN_31
+  - first:
+      213: -155101387884018778
+    second: Free_Desc_Draw_EN_32
+  - first:
+      213: -333650277695486653
+    second: Free_Desc_Draw_EN_33
+  - first:
+      213: 5813112104456344556
+    second: Free_Desc_Draw_EN_34
+  - first:
+      213: -6557097769363209252
+    second: Free_Desc_Draw_EN_35
+  - first:
+      213: -3847216176209352063
+    second: Free_Desc_Draw_EN_36
+  - first:
+      213: 1164253589820175904
+    second: Free_Desc_Draw_EN_37
+  - first:
+      213: 3776043625705004859
+    second: Free_Desc_Draw_EN_38
+  - first:
+      213: -5206612509266948110
+    second: Free_Desc_Draw_EN_39
+  - first:
+      213: -4928670756211404840
+    second: Free_Desc_Draw_EN_40
+  - first:
+      213: 7168179207437253915
+    second: Free_Desc_Draw_EN_41
+  - first:
+      213: 1898707870533365454
+    second: Free_Desc_Draw_EN_42
+  - first:
+      213: 2136490461167407237
+    second: Free_Desc_Draw_EN_43
+  - first:
+      213: 1407510487289716654
+    second: Free_Desc_Draw_EN_44
+  - first:
+      213: 6515266308120576223
+    second: Free_Desc_Draw_EN_45
+  - first:
+      213: -5776358624100658460
+    second: Free_Desc_Draw_EN_46
+  - first:
+      213: -2610924804155500666
+    second: Free_Desc_Draw_EN_47
+  - first:
+      213: 7071137110074001103
+    second: Free_Desc_Draw_EN_48
+  - first:
+      213: 1257648723977159189
+    second: Free_Desc_Draw_EN_49
+  - first:
+      213: -1659949115070799748
+    second: Free_Desc_Draw_EN_50
+  - first:
+      213: 5961674381513436592
+    second: Free_Desc_Draw_EN_51
+  - first:
+      213: -455062036772670650
+    second: Free_Desc_Draw_EN_52
+  - first:
+      213: 8020960996543424757
+    second: Free_Desc_Draw_EN_53
+  - first:
+      213: 4684817722696517649
+    second: Free_Desc_Draw_EN_54
+  - first:
+      213: 3085735492382442447
+    second: Free_Desc_Draw_EN_55
+  - first:
+      213: -277698208106364754
+    second: Free_Desc_Draw_EN_56
+  - first:
+      213: 962371901442640453
+    second: Free_Desc_Draw_EN_57
+  - first:
+      213: -5076941300707269108
+    second: Free_Desc_Draw_EN_58
+  - first:
+      213: -4010307263549340089
+    second: Free_Desc_Draw_EN_59
+  - first:
+      213: 5443347192553763356
+    second: Free_Desc_Draw_EN_60
+  - first:
+      213: -881923711069584078
+    second: Free_Desc_Draw_EN_61
+  - first:
+      213: -6968441798341193169
+    second: Free_Desc_Draw_EN_62
+  - first:
+      213: -7527380630799262046
+    second: Free_Desc_Draw_EN_63
+  - first:
+      213: 2945531037495159791
+    second: Free_Desc_Draw_EN_64
+  - first:
+      213: 2890461157419100594
+    second: Free_Desc_Draw_EN_65
+  - first:
+      213: -8419904149913764433
+    second: Free_Desc_Draw_EN_66
+  - first:
+      213: -6427575163227212886
+    second: Free_Desc_Draw_EN_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 880
+        width: 782
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4bcc8b78958d1e0800000000000000
+      internalID: -2172888380750383915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 909
+        width: 158
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d16de6d9aebce750800000000000000
+      internalID: 6335648412468077016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 877
+        width: 158
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d8982ee969e3db0800000000000000
+      internalID: -4810241742835446423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 853
+        width: 125
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894c787d4ab765930800000000000000
+      internalID: 4131625656079860888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 829
+        width: 125
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af96718fa205b0f0800000000000000
+      internalID: -1101971581007650908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 737
+        width: 270
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4888a4083072ab740800000000000000
+      internalID: 5168486418351818884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_10
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 737
+        width: 175
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700413ec9c1c3ba90800000000000000
+      internalID: -7299277498545520633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 842
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05320c52ffc620290800000000000000
+      internalID: -7925652551112842416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 553
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8311404b0ad5b6200800000000000000
+      internalID: 174335955380212024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_15
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 529
+        width: 452
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4018c63d29e9471c0800000000000000
+      internalID: -4506802973641506556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 266
+        width: 371
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbec58fe9eee7700800000000000000
+      internalID: 540131371870120907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 239
+        width: 418
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9341ad8dee9c702a0800000000000000
+      internalID: -6771221487050681287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 737
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6e24f3abce8bea0800000000000000
+      internalID: -5856671030725908828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_25
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 211
+        width: 142
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de2a855d0f2805d0800000000000000
+      internalID: -3096173009501016368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_27
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 210
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d42e015d6b34c00800000000000000
+      internalID: 883750978122304899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 246
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9c30a0b27aac960800000000000000
+      internalID: 7623089122571438580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 120
+        width: 389
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3598b72a786320f80800000000000000
+      internalID: -8141885220157945517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 583
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18aa7ea6541fb9ac0800000000000000
+      internalID: -3847216176209352063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_EN_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 488
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64336631d7b4fa9f0800000000000000
+      internalID: -455062036772670650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5fb49a8dde0f7344981d83a95dbe8197
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Free_Desc_Draw_EN_0: -2172888380750383915
+      Free_Desc_Draw_EN_1: -2708695415206643699
+      Free_Desc_Draw_EN_10: -7299277498545520633
+      Free_Desc_Draw_EN_11: -7925652551112842416
+      Free_Desc_Draw_EN_12: -8493542095233399825
+      Free_Desc_Draw_EN_13: -5349757290975427727
+      Free_Desc_Draw_EN_14: 174335955380212024
+      Free_Desc_Draw_EN_15: -4506802973641506556
+      Free_Desc_Draw_EN_16: -1932914276383505742
+      Free_Desc_Draw_EN_17: 540131371870120907
+      Free_Desc_Draw_EN_18: -686769723298928571
+      Free_Desc_Draw_EN_19: -6771221487050681287
+      Free_Desc_Draw_EN_2: 6335648412468077016
+      Free_Desc_Draw_EN_20: -5856671030725908828
+      Free_Desc_Draw_EN_25: -3096173009501016368
+      Free_Desc_Draw_EN_26: 8086099081028388967
+      Free_Desc_Draw_EN_27: 883750978122304899
+      Free_Desc_Draw_EN_28: 7623089122571438580
+      Free_Desc_Draw_EN_29: -8141885220157945517
+      Free_Desc_Draw_EN_3: -4810241742835446423
+      Free_Desc_Draw_EN_36: -3847216176209352063
+      Free_Desc_Draw_EN_37: 1164253589820175904
+      Free_Desc_Draw_EN_38: 3776043625705004859
+      Free_Desc_Draw_EN_39: -5206612509266948110
+      Free_Desc_Draw_EN_4: 2400050273106920130
+      Free_Desc_Draw_EN_40: -4928670756211404840
+      Free_Desc_Draw_EN_41: 7168179207437253915
+      Free_Desc_Draw_EN_42: 1898707870533365454
+      Free_Desc_Draw_EN_43: 2136490461167407237
+      Free_Desc_Draw_EN_44: 1407510487289716654
+      Free_Desc_Draw_EN_45: 6515266308120576223
+      Free_Desc_Draw_EN_46: -5776358624100658460
+      Free_Desc_Draw_EN_47: -2610924804155500666
+      Free_Desc_Draw_EN_48: 7071137110074001103
+      Free_Desc_Draw_EN_49: 1257648723977159189
+      Free_Desc_Draw_EN_5: -7039342849716698110
+      Free_Desc_Draw_EN_50: -1659949115070799748
+      Free_Desc_Draw_EN_51: 5961674381513436592
+      Free_Desc_Draw_EN_52: -455062036772670650
+      Free_Desc_Draw_EN_53: 8020960996543424757
+      Free_Desc_Draw_EN_55: 3085735492382442447
+      Free_Desc_Draw_EN_56: -277698208106364754
+      Free_Desc_Draw_EN_57: 962371901442640453
+      Free_Desc_Draw_EN_58: -5076941300707269108
+      Free_Desc_Draw_EN_59: -4010307263549340089
+      Free_Desc_Draw_EN_6: 4131625656079860888
+      Free_Desc_Draw_EN_7: -1101971581007650908
+      Free_Desc_Draw_EN_8: 1672515716567639246
+      Free_Desc_Draw_EN_9: 5168486418351818884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

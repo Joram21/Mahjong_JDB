@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 79dfd201b3dd2814bac17cfa3c8518d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8247995526358554123
+    second: Free_Desc_Draw_CN_0
+  - first:
+      213: -2887165206032001350
+    second: Free_Desc_Draw_CN_1
+  - first:
+      213: 4776802621266634860
+    second: Free_Desc_Draw_CN_2
+  - first:
+      213: -5282915284961780956
+    second: Free_Desc_Draw_CN_3
+  - first:
+      213: -4215992317809552031
+    second: Free_Desc_Draw_CN_4
+  - first:
+      213: 6337319070259716815
+    second: Free_Desc_Draw_CN_5
+  - first:
+      213: 2665042672627748850
+    second: Free_Desc_Draw_CN_6
+  - first:
+      213: -5450473913617583075
+    second: Free_Desc_Draw_CN_7
+  - first:
+      213: 5787310693618691121
+    second: Free_Desc_Draw_CN_8
+  - first:
+      213: 3891870482707205071
+    second: Free_Desc_Draw_CN_9
+  - first:
+      213: -8001471869158805987
+    second: Free_Desc_Draw_CN_10
+  - first:
+      213: -7893294139123648056
+    second: Free_Desc_Draw_CN_11
+  - first:
+      213: 6230687577440953820
+    second: Free_Desc_Draw_CN_12
+  - first:
+      213: 2054447004019032920
+    second: Free_Desc_Draw_CN_13
+  - first:
+      213: 1482425347312974568
+    second: Free_Desc_Draw_CN_14
+  - first:
+      213: 7889270378419944080
+    second: Free_Desc_Draw_CN_15
+  - first:
+      213: -3438898242824153338
+    second: Free_Desc_Draw_CN_16
+  - first:
+      213: 2597292695765058686
+    second: Free_Desc_Draw_CN_17
+  - first:
+      213: -7561158513953724061
+    second: Free_Desc_Draw_CN_18
+  - first:
+      213: -8849679443613853352
+    second: Free_Desc_Draw_CN_19
+  - first:
+      213: 8257543673434324323
+    second: Free_Desc_Draw_CN_20
+  - first:
+      213: 8377005058445585814
+    second: Free_Desc_Draw_CN_21
+  - first:
+      213: 3339832339338292671
+    second: Free_Desc_Draw_CN_22
+  - first:
+      213: 3212740871911357770
+    second: Free_Desc_Draw_CN_23
+  - first:
+      213: -5241324083976544694
+    second: Free_Desc_Draw_CN_24
+  - first:
+      213: -918603734523601092
+    second: Free_Desc_Draw_CN_25
+  - first:
+      213: 4452778530722842377
+    second: Free_Desc_Draw_CN_26
+  - first:
+      213: -1434615208528918228
+    second: Free_Desc_Draw_CN_27
+  - first:
+      213: -809774195573843958
+    second: Free_Desc_Draw_CN_28
+  - first:
+      213: -1477950654308309500
+    second: Free_Desc_Draw_CN_29
+  - first:
+      213: 6354191543120303786
+    second: Free_Desc_Draw_CN_30
+  - first:
+      213: 1551272990138911286
+    second: Free_Desc_Draw_CN_31
+  - first:
+      213: 5171484295877709488
+    second: Free_Desc_Draw_CN_32
+  - first:
+      213: -3147340565637960560
+    second: Free_Desc_Draw_CN_33
+  - first:
+      213: -3689501009201943317
+    second: Free_Desc_Draw_CN_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 629
+        width: 486
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9236eb4cb398d80800000000000000
+      internalID: -8247995526358554123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_1
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 628
+        width: 280
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6589eba8abee7d0800000000000000
+      internalID: -2887165206032001350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 486
+        width: 280
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68a0caecac9a4240800000000000000
+      internalID: 4776802621266634860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 574
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b1f55d9805fa6b0800000000000000
+      internalID: -5282915284961780956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 321
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1659f210359cd75c0800000000000000
+      internalID: -4215992317809552031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 337
+        width: 373
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2a32b2e1ea2f750800000000000000
+      internalID: 6337319070259716815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 258
+        width: 441
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff0c35d0322cf420800000000000000
+      internalID: 2665042672627748850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_7
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 289
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d147a497ad60c54b0800000000000000
+      internalID: -5450473913617583075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_8
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 273
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c26f1d968a05050800000000000000
+      internalID: 5787310693618691121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_9
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 273
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb47918593b20630800000000000000
+      internalID: 3891870482707205071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_10
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 290
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e22868abf05f090800000000000000
+      internalID: -8001471869158805987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_11
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 291
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9bcd90dc2657290800000000000000
+      internalID: -7893294139123648056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_12
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 277
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5aecf0759d77650800000000000000
+      internalID: 6230687577440953820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 210
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8538b6c4aacd28c10800000000000000
+      internalID: 2054447004019032920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_14
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 196
+        width: 117
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaff98cff1a29410800000000000000
+      internalID: 1482425347312974568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 227
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a7bba2c915c7d60800000000000000
+      internalID: 7889270378419944080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_16
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 196
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60750c9a4449640d0800000000000000
+      internalID: -3438898242824153338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_17
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 210
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e740bcc12ff6b0420800000000000000
+      internalID: 2597292695765058686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_18
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 211
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3692e5d646e511790800000000000000
+      internalID: -7561158513953724061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_19
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 222
+        width: 183
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859d1530f6f9f2580800000000000000
+      internalID: -8849679443613853352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_20
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 223
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36db35c7830b89270800000000000000
+      internalID: 8257543673434324323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 200
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dac46a7b9114470800000000000000
+      internalID: 8377005058445585814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_22
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 187
+        width: 169
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdee9341d7795e20800000000000000
+      internalID: 3339832339338292671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_23
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 196
+        width: 125
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4db7a91dc2f59c20800000000000000
+      internalID: 3212740871911357770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 148
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ed0ede3831347b0800000000000000
+      internalID: -5241324083976544694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 149
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f9f5a35c67043f0800000000000000
+      internalID: -918603734523601092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_26
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 134
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907883b5b727bcd30800000000000000
+      internalID: 4452778530722842377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_27
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 165
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29c24a9119371ce0800000000000000
+      internalID: -1434615208528918228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_28
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 134
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a081b84d8aa13c4f0800000000000000
+      internalID: -809774195573843958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_29
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 150
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406a56ed5b34d7be0800000000000000
+      internalID: -1477950654308309500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_30
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 149
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa61a72ea8f9e2850800000000000000
+      internalID: 6354191543120303786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 152
+        width: 169
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a43e6c09a378510800000000000000
+      internalID: 1551272990138911286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_32
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 171
+        width: 85
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be4d41419dc4c740800000000000000
+      internalID: 5171484295877709488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_33
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ce8fd4e666254d0800000000000000
+      internalID: -3147340565637960560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free_Desc_Draw_CN_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 184
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beca21441624cccc0800000000000000
+      internalID: -3689501009201943317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Free_Desc_Draw_CN_0: -8247995526358554123
+      Free_Desc_Draw_CN_1: -2887165206032001350
+      Free_Desc_Draw_CN_10: -8001471869158805987
+      Free_Desc_Draw_CN_11: -7893294139123648056
+      Free_Desc_Draw_CN_12: 6230687577440953820
+      Free_Desc_Draw_CN_13: 2054447004019032920
+      Free_Desc_Draw_CN_14: 1482425347312974568
+      Free_Desc_Draw_CN_15: 7889270378419944080
+      Free_Desc_Draw_CN_16: -3438898242824153338
+      Free_Desc_Draw_CN_17: 2597292695765058686
+      Free_Desc_Draw_CN_18: -7561158513953724061
+      Free_Desc_Draw_CN_19: -8849679443613853352
+      Free_Desc_Draw_CN_2: 4776802621266634860
+      Free_Desc_Draw_CN_20: 8257543673434324323
+      Free_Desc_Draw_CN_21: 8377005058445585814
+      Free_Desc_Draw_CN_22: 3339832339338292671
+      Free_Desc_Draw_CN_23: 3212740871911357770
+      Free_Desc_Draw_CN_24: -5241324083976544694
+      Free_Desc_Draw_CN_25: -918603734523601092
+      Free_Desc_Draw_CN_26: 4452778530722842377
+      Free_Desc_Draw_CN_27: -1434615208528918228
+      Free_Desc_Draw_CN_28: -809774195573843958
+      Free_Desc_Draw_CN_29: -1477950654308309500
+      Free_Desc_Draw_CN_3: -5282915284961780956
+      Free_Desc_Draw_CN_30: 6354191543120303786
+      Free_Desc_Draw_CN_31: 1551272990138911286
+      Free_Desc_Draw_CN_32: 5171484295877709488
+      Free_Desc_Draw_CN_33: -3147340565637960560
+      Free_Desc_Draw_CN_34: -3689501009201943317
+      Free_Desc_Draw_CN_4: -4215992317809552031
+      Free_Desc_Draw_CN_5: 6337319070259716815
+      Free_Desc_Draw_CN_6: 2665042672627748850
+      Free_Desc_Draw_CN_7: -5450473913617583075
+      Free_Desc_Draw_CN_8: 5787310693618691121
+      Free_Desc_Draw_CN_9: 3891870482707205071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

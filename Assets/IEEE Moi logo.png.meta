@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 9dd81ceff1293544eb73c9b1e809f0ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9205532948329577551
+    second: IEEE Moi logo_0
+  - first:
+      213: -4367762410246520387
+    second: IEEE Moi logo_1
+  - first:
+      213: 5046371098283390573
+    second: IEEE Moi logo_2
+  - first:
+      213: 4395906432778347190
+    second: IEEE Moi logo_3
+  - first:
+      213: -1381906521675394473
+    second: IEEE Moi logo_4
+  - first:
+      213: 1064516344518934626
+    second: IEEE Moi logo_5
+  - first:
+      213: -6300887085903878372
+    second: IEEE Moi logo_6
+  - first:
+      213: 8022931739341508754
+    second: IEEE Moi logo_7
+  - first:
+      213: -660716680198069961
+    second: IEEE Moi logo_8
+  - first:
+      213: -3602292956068547461
+    second: IEEE Moi logo_9
+  - first:
+      213: -6980330629729415418
+    second: IEEE Moi logo_10
+  - first:
+      213: -5293186582893205008
+    second: IEEE Moi logo_11
+  - first:
+      213: 4584454769622681728
+    second: IEEE Moi logo_12
+  - first:
+      213: -4581324229722739404
+    second: IEEE Moi logo_13
+  - first:
+      213: 6205312539959089210
+    second: IEEE Moi logo_14
+  - first:
+      213: 5567478479887244775
+    second: IEEE Moi logo_15
+  - first:
+      213: 1541513713071209344
+    second: IEEE Moi logo_16
+  - first:
+      213: 3440029698701191963
+    second: IEEE Moi logo_17
+  - first:
+      213: -3774563767984164776
+    second: IEEE Moi logo_18
+  - first:
+      213: 6622388416548890517
+    second: IEEE Moi logo_19
+  - first:
+      213: 5746612813956964881
+    second: IEEE Moi logo_20
+  - first:
+      213: 1985972441885362110
+    second: IEEE Moi logo_21
+  - first:
+      213: -1040983495313912120
+    second: IEEE Moi logo_22
+  - first:
+      213: -1243563227589115073
+    second: IEEE Moi logo_23
+  - first:
+      213: 1797603114246434467
+    second: IEEE Moi logo_24
+  - first:
+      213: -6551722548393744661
+    second: IEEE Moi logo_25
+  - first:
+      213: -9222288679182436110
+    second: IEEE Moi logo_26
+  - first:
+      213: 6671475519549809000
+    second: IEEE Moi logo_27
+  - first:
+      213: 6976015804789838993
+    second: IEEE Moi logo_28
+  - first:
+      213: 6546476591015678375
+    second: IEEE Moi logo_29
+  - first:
+      213: 696007270822137925
+    second: IEEE Moi logo_30
+  - first:
+      213: 6873205579529345928
+    second: IEEE Moi logo_31
+  - first:
+      213: -2705682055982792360
+    second: IEEE Moi logo_32
+  - first:
+      213: -826175103348285704
+    second: IEEE Moi logo_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IEEE Moi logo_0
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 949
+        width: 1523
+        height: 1502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cb659817f90cf70800000000000000
+      internalID: 9205532948329577551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_1
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1107
+        width: 377
+        height: 1147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1c3f1ba379263c0800000000000000
+      internalID: -4367762410246520387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_2
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 1107
+        width: 870
+        height: 1147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66bafde6cf480640800000000000000
+      internalID: 5046371098283390573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_3
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 1107
+        width: 890
+        height: 1147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2ab9f2c95610d30800000000000000
+      internalID: 4395906432778347190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_4
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 1107
+        width: 890
+        height: 1147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7521eb6175b72dce0800000000000000
+      internalID: -1381906521675394473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_5
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 579
+        width: 294
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26006aca9fbe5ce00800000000000000
+      internalID: 1064516344518934626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_6
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 834
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c176ad23490ce88a0800000000000000
+      internalID: -6300887085903878372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_7
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 573
+        width: 243
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29058acd8ed275f60800000000000000
+      internalID: 8022931739341508754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_8
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 834
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7316e931ea9a4d6f0800000000000000
+      internalID: -660716680198069961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_9
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 834
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7474a864a5120ec0800000000000000
+      internalID: -3602292956068547461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_10
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 573
+        width: 132
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f03309642e02f90800000000000000
+      internalID: -6980330629729415418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_11
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 573
+        width: 248
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f969cce8d2da86b0800000000000000
+      internalID: -5293186582893205008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_12
+      rect:
+        serializedVersion: 2
+        x: 4451
+        y: 573
+        width: 132
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0888430d2514f9f30800000000000000
+      internalID: 4584454769622681728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_13
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 573
+        width: 216
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d6c7ec2eddb60c0800000000000000
+      internalID: -4581324229722739404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_14
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 573
+        width: 132
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38d980c0e2bd1650800000000000000
+      internalID: 6205312539959089210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_15
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 573
+        width: 229
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed9f400e28a34d40800000000000000
+      internalID: 5567478479887244775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_16
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 579
+        width: 60
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bb0040e8e846510800000000000000
+      internalID: 1541513713071209344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_17
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 579
+        width: 202
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1be0efe8c07dbf20800000000000000
+      internalID: 3440029698701191963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_18
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 579
+        width: 60
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8507e33604e0e9bc0800000000000000
+      internalID: -3774563767984164776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_19
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 579
+        width: 229
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597ee0d8d2377eb50800000000000000
+      internalID: 6622388416548890517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_20
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 573
+        width: 207
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112ec9d48e110cf40800000000000000
+      internalID: 5746612813956964881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_21
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 579
+        width: 145
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7ca4ce9679f8b10800000000000000
+      internalID: 1985972441885362110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_22
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 573
+        width: 207
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce05c0c60fad81f0800000000000000
+      internalID: -1040983495313912120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_23
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 579
+        width: 60
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3300db45d9fdbee0800000000000000
+      internalID: -1243563227589115073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_24
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 487
+        width: 228
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae6bcf128e52f810800000000000000
+      internalID: 1797603114246434467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_25
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 573
+        width: 202
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6e2140e0b9315a0800000000000000
+      internalID: -6551722548393744661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_26
+      rect:
+        serializedVersion: 2
+        x: 5113
+        y: 573
+        width: 207
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8793dde49d30080800000000000000
+      internalID: -9222288679182436110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_27
+      rect:
+        serializedVersion: 2
+        x: 5364
+        y: 579
+        width: 202
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8612b7653a7d59c50800000000000000
+      internalID: 6671475519549809000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_28
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 162
+        width: 256
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1945208f969cfc060800000000000000
+      internalID: 6976015804789838993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_29
+      rect:
+        serializedVersion: 2
+        x: 4659
+        y: 162
+        width: 145
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a156e956c1c9da50800000000000000
+      internalID: 6546476591015678375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_30
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 156
+        width: 208
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540517adce6b8a900800000000000000
+      internalID: 696007270822137925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_31
+      rect:
+        serializedVersion: 2
+        x: 5060
+        y: 162
+        width: 202
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b541c0f08826f50800000000000000
+      internalID: 6873205579529345928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_32
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 156
+        width: 209
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8514ff1618c737ad0800000000000000
+      internalID: -2705682055982792360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IEEE Moi logo_33
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 162
+        width: 201
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe57aaee16d884f0800000000000000
+      internalID: -826175103348285704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IEEE Moi logo_0: 9205532948329577551
+      IEEE Moi logo_1: -4367762410246520387
+      IEEE Moi logo_10: -6980330629729415418
+      IEEE Moi logo_11: -5293186582893205008
+      IEEE Moi logo_12: 4584454769622681728
+      IEEE Moi logo_13: -4581324229722739404
+      IEEE Moi logo_14: 6205312539959089210
+      IEEE Moi logo_15: 5567478479887244775
+      IEEE Moi logo_16: 1541513713071209344
+      IEEE Moi logo_17: 3440029698701191963
+      IEEE Moi logo_18: -3774563767984164776
+      IEEE Moi logo_19: 6622388416548890517
+      IEEE Moi logo_2: 5046371098283390573
+      IEEE Moi logo_20: 5746612813956964881
+      IEEE Moi logo_21: 1985972441885362110
+      IEEE Moi logo_22: -1040983495313912120
+      IEEE Moi logo_23: -1243563227589115073
+      IEEE Moi logo_24: 1797603114246434467
+      IEEE Moi logo_25: -6551722548393744661
+      IEEE Moi logo_26: -9222288679182436110
+      IEEE Moi logo_27: 6671475519549809000
+      IEEE Moi logo_28: 6976015804789838993
+      IEEE Moi logo_29: 6546476591015678375
+      IEEE Moi logo_3: 4395906432778347190
+      IEEE Moi logo_30: 696007270822137925
+      IEEE Moi logo_31: 6873205579529345928
+      IEEE Moi logo_32: -2705682055982792360
+      IEEE Moi logo_33: -826175103348285704
+      IEEE Moi logo_4: -1381906521675394473
+      IEEE Moi logo_5: 1064516344518934626
+      IEEE Moi logo_6: -6300887085903878372
+      IEEE Moi logo_7: 8022931739341508754
+      IEEE Moi logo_8: -660716680198069961
+      IEEE Moi logo_9: -3602292956068547461
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

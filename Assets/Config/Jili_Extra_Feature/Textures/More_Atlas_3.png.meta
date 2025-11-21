@@ -1,0 +1,4201 @@
+fileFormatVersion: 2
+guid: 0a0ceaeaf131c42d384fcf0d39e1bdd8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: More_Atlas_3_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 947
+        width: 704
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe8157c953a84c4289ffe4b494f41d0
+      internalID: 1122396517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_1
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 894
+        width: 252
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6299d6fb21c08447ebeefc84d46bc886
+      internalID: 1264677255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 924
+        width: 702
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5c3570de7724952b4582838ece746b
+      internalID: 924029302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 904
+        width: 702
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47b430cb011641f7ad4b8c626f6831f
+      internalID: 279402558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 882
+        width: 468
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66a592050d9148ba85f6a14237730f8
+      internalID: 506594682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 863
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb397e2adfa75429b83d3596010a0be0
+      internalID: -613686124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 863
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5f77b3f40ec4b44bec7da8cb38feaa
+      internalID: 978878996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 863
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8378643db3441e1ba8a531d16bcfca
+      internalID: -1068091391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 863
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0762321a7214ab8a89ed43c01434b7
+      internalID: 1314619654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 863
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8b9949958b74072b1ade5c879a66c4
+      internalID: -507210542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 774
+        width: 258
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc47ff4360ca44af882497ffd86bd68
+      internalID: -1446136846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 863
+        width: 468
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e625f3a5bdca345c482c2a7b09efe5d2
+      internalID: 1310139929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 848
+        width: 468
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f929f95de6dcb49d699be4faecd5d01d
+      internalID: -1905797939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_13
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 802
+        width: 204
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f933980d2b4a719fdafb5befd7cc3
+      internalID: -442648813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 614
+        width: 18
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53215156ec5064674b53259afa0861f3
+      internalID: -921553612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 840
+        width: 352
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392699d7392c4494499396f2e9fa81c6
+      internalID: -749838818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 779
+        width: 299
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c907a7192741461196c7d16612ecc2d
+      internalID: 2073886494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 779
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568cb46230a8242c2bbf00a26a51954b
+      internalID: -213040818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 745
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d938a67fb274eb4b3a45959047153b
+      internalID: 1986095228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_19
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 742
+        width: 204
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e618d7cff5574c32834b65a379875e7
+      internalID: 1650068359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 740
+        width: 286
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12ca12158b654cc3a2c60328650fe77
+      internalID: -515665088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 751
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d461e2f7145c4c8d81c0d549f536005
+      internalID: -1242255692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 751
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdf53f5494df4dcaa493401c253dbc8
+      internalID: 1694515323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_23
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 751
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbd3515926084a2b93626c0f9c1b3e3
+      internalID: -1671522480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 751
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d2f2446256549ae959228f2bec014d
+      internalID: 1555890588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 754
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e9a4f64b7e742a2aae6ffc94dca19c
+      internalID: 1337578133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_26
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 573
+        width: 251
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065169b4a90084708bd810934d2adcd5
+      internalID: 362115030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 682
+        width: 240
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adc0e16b8cdd4712b072d95862c67c7
+      internalID: 865917176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 501
+        width: 42
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62404c9a5258452b99eab50e2c2d8fd
+      internalID: -728431348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 723
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250e4d1ed3b354d63bebbdfeed45369d
+      internalID: 578113254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 723
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5337b2a2c549348bfb3f3f61b2330350
+      internalID: 113615893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 723
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399c6af44a10a4e84a3a2e6d41d5b6aa
+      internalID: -356116893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 723
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8e422cb61e1464ab8510e32d5a2034
+      internalID: 1860301978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_33
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 639
+        width: 111
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b9c074c66e249979d8107fd9c1bb29
+      internalID: -613832102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_34
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 660
+        width: 182
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921072700cdce47c992f58ac35299d45
+      internalID: -292914181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_35
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 720
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8b05a4090714e2ead7270f84eb616d
+      internalID: 1729296693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 695
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984f62bdcbb4b4fe39daa5d5f5e291c8
+      internalID: -2053591119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 695
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe7244059c014644a8f88da85e259c4
+      internalID: -814620071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_38
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 695
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeefead333d3041d3bb47096f7322dbe
+      internalID: 569636565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_39
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 695
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593055fbde7704908aa7688c29f30df8
+      internalID: -621836410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_40
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 705
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5244e5b66c851450d8ac353e204e021b
+      internalID: 1023868924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 639
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9583df293a2f04cc78b998582359d26d
+      internalID: -1571668377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_42
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 690
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a8d0d92d3d44c829d889317ce9b93e
+      internalID: -127262871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 623
+        width: 239
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b43bfe011d8a4052815371820d5c15d
+      internalID: 202994398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_44
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 578
+        width: 182
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc7f421f6304643a032f6afc8ef297
+      internalID: -2129265266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_45
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 652
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e1c79bb3d6548b0a83ae937a0211f7
+      internalID: -90691097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 506
+        width: 177
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77153e61e9c4843c68d173058c8f152b
+      internalID: -2130099357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_47
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 631
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c12fecfce8b346d7be30c49bab72587
+      internalID: 1248493581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 541
+        width: 166
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d0538df48f3440f8600faf06f10295
+      internalID: 1276652139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_49
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 455
+        width: 70
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f77c55df1ebc4c82a1bbc5f9e4ceee9
+      internalID: -602571740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_50
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 610
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f4d955ec6e749969326c5fc17c521d
+      internalID: 1195507176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_51
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 530
+        width: 172
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895a95695c41d4407b9dfc54e568821c
+      internalID: 1648692424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_52
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 419
+        width: 6
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78748fce1f5e2471d9da5cccdd77ebb0
+      internalID: 1109821806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_53
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 570
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea7730fe081144669909aaac0d75822
+      internalID: 1466621175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_54
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 530
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b60553690a149359fefb9b70496285
+      internalID: 1738270484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_55
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 515
+        width: 240
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303c2b08a22b94ef7955a07f1c0d931d
+      internalID: -973458713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_56
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 545
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c334a3e5e6964438bc804358e2c1478
+      internalID: -1728884875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 439
+        width: 156
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5fdac8040f848fd9463e222fb3595f
+      internalID: -329787285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_58
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 453
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51767be3dd0344bc4a71a470e29eb9bc
+      internalID: -1912965066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_59
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 336
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae30a44e2cb724695ac9af2197b4fd48
+      internalID: -1239678536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_60
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 469
+        width: 4
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875645cf9dd9e46f1ae2db68748cd25d
+      internalID: -2106928965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_61
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 484
+        width: 171
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924d455030586478e9d46f28601a7646
+      internalID: 540909062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_62
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 422
+        width: 39
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ef33eb559d3446e99f7d34c07ac38b
+      internalID: -374654501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_63
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 473
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d057da9c7e6a74b94a68e9903d5ce136
+      internalID: 1116045433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_64
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 475
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98691cd191e2345ebb57bd7b15ac1fda
+      internalID: 220915914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_65
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 491
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ff3b523b2e641eeb43c461a89729e4
+      internalID: -772463152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_66
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 406
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040d208908ed24443acc9b87ec0c101d
+      internalID: -1966047415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_67
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 466
+        width: 10
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74940b87d747e47cbbb4f33289e12231
+      internalID: -297836663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 337
+        width: 156
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329a26c7af2434fa585a8372720306e1
+      internalID: -385936181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_69
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 351
+        width: 126
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db61af128bb74412b1144d828e84ab9
+      internalID: -835600892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_70
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 402
+        width: 164
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52665bee9625943a087cec82ae3afd1a
+      internalID: 1959049762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_71
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 422
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c41a6b02f374dfc8f12281868fec85
+      internalID: -1376541047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_72
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 425
+        width: 105
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 0, z: 16, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aceafd269a714e91911b3ceb2a67360
+      internalID: -684413549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_73
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 381
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2ff1225fef74ecbaf7c0922c1eca99
+      internalID: -83769592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_74
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 381
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7eafe235e884f95a2e5165fab91ed8
+      internalID: 1719300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_75
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 338
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0975ef0c490534d5b95a9fec82c5abdb
+      internalID: 2139642891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_76
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 338
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9e476e6b5284151868de068ecabd1d
+      internalID: 361924627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_77
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 378
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87b3f16860c04ea3a8569dd280bb71c
+      internalID: 1706152143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_78
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 338
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da413eca84bd046379345a3f1066477d
+      internalID: -1367312045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_79
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 340
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b30928b14d0450e8e8c79e37ced058
+      internalID: 1285571150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_80
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 397
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330d2eded905644cfbaf86b3f4141c82
+      internalID: -386667178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_81
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 397
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c6a5c0a74e24d43a3305334f881235
+      internalID: 377997499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_82
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 397
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b551bd861c6437c9d1605ef9c1ed98
+      internalID: -1556545863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_83
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 397
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5a21526d2b943f7b014ff0becfb643
+      internalID: 606556263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_84
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 346
+        width: 9
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a04578fb5ba4b9081f374eb556f8d6
+      internalID: -2104225315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_85
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 309
+        width: 119
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48886ccff77984d8eacf11d7fb51a6fc
+      internalID: 378632914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_86
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 375
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cab73f2705c4e79bcbd245a0f6b83b
+      internalID: -1047908938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_87
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 375
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8701e879d1040529d8260b51ebbebe
+      internalID: -2034334184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_88
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 380
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da552d16436aa4c718930ec32ecc8871
+      internalID: -1648451174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_89
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 364
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a3c2e6c9fe14bed8ad7d066a05327c
+      internalID: -1682053045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_90
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 367
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6729f515ea24938a91a9486daba230
+      internalID: 551977705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_91
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 358
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf0b392aec62422d801c2ab38f45bf7
+      internalID: 470332482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_92
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 358
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc920f1abbab49f4a3cccfc4aa6a17d
+      internalID: -115006378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_93
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 354
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d203448c68dc4593852c2283212a736
+      internalID: -1047860948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_94
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 340
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3acd389e13aa4e459363427921c150e
+      internalID: 1285159386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_95
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 249
+        width: 126
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8d9ddd005da4271a7983172694b61f
+      internalID: 1697391448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_96
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 337
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226a7df03c50b469b8a33355a46918c4
+      internalID: -1379666660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_97
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 337
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f4e2881b304bfe8855e6da481e143
+      internalID: 1436099227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_98
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 343
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e991cfe90e024b05a08d9384a35f986
+      internalID: 108612935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 307
+        width: 148
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5811b5907714d53990aacd14b43b71
+      internalID: 998644081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_100
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 206
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27e08d6bb8742ac89ecc8e25ca0c0c
+      internalID: -546423922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_101
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 210
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5981ed3db0b5344f2ac6ad037ad00902
+      internalID: -494687849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_102
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 212
+        width: 94
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d8b693dde9b4b86b903e8799514113
+      internalID: -1763536277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_103
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 215
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8cfdcdace57485aa092848b809f6bc
+      internalID: -1670682102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_104
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 217
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba5eb0e94d7140cb939284301519650
+      internalID: -959634488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 205
+        width: 147
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d00e8243d4d04c4f97ba781d9bf02d6
+      internalID: -1311605242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_106
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 258
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55a6a3f4f6ce4757bf87b6a802ed899
+      internalID: -301488495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_107
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 206
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94534108bfd1747b5830381eee227a5d
+      internalID: 936810297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_108
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 206
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8e2bc7d44b64849837c264761c8cb6
+      internalID: -1503914880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_109
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 209
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bed09dd70d024374bfd936d45b33cc9
+      internalID: 1929951062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_110
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 220
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282b26bea18a94934948608ca736a646
+      internalID: 2017972094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_111
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 225
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43ccabe559eb467a980c0f5d27c777d
+      internalID: -1978159271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_112
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 188
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3fde2454aa640ce9067210287a7099
+      internalID: -1605761682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_113
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8196ffe9e4fd34a0a96a4833aaa369ef
+      internalID: 485040830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_114
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 58
+        width: 97
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9efc3b2a8faf4eb7bdb7aa0bad4a3a4
+      internalID: -1793801467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_115
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 59
+        width: 96
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5375bf8d9cf045f989a1c1310837f03
+      internalID: -1940007054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_116
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 66
+        width: 45
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be19bbede4bc442b850d617d6fe444f
+      internalID: -1778698510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_117
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 68
+        width: 92
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824de00556995405e927c4edd05e54ce
+      internalID: 2061826342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_118
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 75
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadf9819a03db4963888d410cca14275
+      internalID: -1792760363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_119
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 89
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748191b5611284054a506b5c9768e390
+      internalID: -998196528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_120
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 92
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de103070acfd84c0d8cb5086113c3f2a
+      internalID: -1510388365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_121
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 102
+        width: 47
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e61c82b36ffe4926912524bd5934fa3
+      internalID: -126746588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_122
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 160
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eca71d76c4542fabc063cc3a6201a2
+      internalID: -2134355106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_123
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 160
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450560053b00c4686b6eda5b8193b7ab
+      internalID: -1275113215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_124
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 160
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d697e4cd3644cc9a3f231aa13d1abb
+      internalID: 1340667656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_125
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 75
+        width: 75
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5726132fe64b44303a34cc3fca4329c6
+      internalID: 714594396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_126
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5104e8daa244268ae0e9722e6e937
+      internalID: -47647709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_127
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 13
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fcda50dca3f41fc903d3974c54a5cc
+      internalID: -1578274503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_128
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 13
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11556b7f2d6744198b3f6bc585dad40
+      internalID: 976686958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_129
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 13
+        width: 9
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db157bfa4ff8443c5848a5de891ae078
+      internalID: 1774395140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_130
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 14
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed720870549d647f8a3f382e166c39e9
+      internalID: 1426935330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_131
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 45
+        width: 46
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53170cc4faa2b4c308da2e5c8c88541b
+      internalID: 1178076678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803cd650c8af74ab3b3a099f1359991f
+      internalID: 1524578378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_133
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 39
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2b23d0e403475788acea5a9683cd6
+      internalID: 1340888451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_134
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 39
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b153ed8d83f4963bca6b2885ba234b
+      internalID: -71592005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_135
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 39
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6c2d67903c34d43aa3a00d12327422
+      internalID: -121735971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_136
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c508760b3a44d2d9c82cdcfa0f4b92
+      internalID: 688031113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_137
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5e70f8b15bf4117bb8835c8751a28d
+      internalID: 429558579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_138
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 42
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63945610341b4eb5ae029747b3a2c2a
+      internalID: -1894297571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_139
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 42
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafd4f32cc5d64c079a1943a086b74c6
+      internalID: 1109834590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_140
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 42
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178d8a09967f848e2bea8ac15119252a
+      internalID: 1024137323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_141
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd08e012db0f4ea3a177cf02711383a
+      internalID: -950520846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_142
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 47
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7af46dde9a342a58a3ee19f12e32da
+      internalID: -392459759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_143
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 47
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79975513f36ad4c0f9ad2905cd306175
+      internalID: 346195331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_144
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 47
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b6d1e66c4e54a12b2ef406187dbcec
+      internalID: -2108253300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_145
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 47
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62db68b75ffef4146b8a9c4b606ce3e2
+      internalID: -630891053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_146
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 4
+        width: 130
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747d23ee65e994039b5d5d0e6d2e9feb
+      internalID: -1041907898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_147
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 47
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33409f44b59943f3908991baba67386
+      internalID: 1741780127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_148
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 47
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9963db8dbf668493caec79d31b546db9
+      internalID: -157279949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_149
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 47
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67190ef0561384b37810b9d3c5d20a8b
+      internalID: 1325781156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_150
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 26
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f3b0ea2a3fa4e418933079c827c6cd
+      internalID: 955291617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_151
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 26
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a9bc5a6f01240ed839686366ce111b
+      internalID: 1784728973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_152
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 26
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51765f2b6cf244e9c86811e0aced1795
+      internalID: 1023067505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_153
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 41
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c0efae0dd684aaaa1c62a64d510cf1
+      internalID: -1025861097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_154
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 41
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ca8dff754b742ca9d9381ab45e4bb0
+      internalID: 58291093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_155
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 41
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51177d8fddc646c7b067738bdbc16da
+      internalID: -944303599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_156
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 41
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be82f2ac04c924d9fad59b4b7518dbb4
+      internalID: 1032413067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_157
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 14
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180336d7c07f44e34b6ee8eac3185191
+      internalID: 1961775961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_158
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aa5aaad94e145ac91aec052d28d397
+      internalID: -110492560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_159
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 23
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae48e73a1a454740a4e15b511b0f1f9
+      internalID: -482554095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_160
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 23
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c216672f707a145bf80d186f60bc0999
+      internalID: -1446952394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_161
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 23
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dad37aded2ec441099ca7e368038d58
+      internalID: 496542166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_162
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 24
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455e02a8b64da47e2b955967f9f41991
+      internalID: -629198846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_163
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 24
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13388c9c07a7448cfb254c86de0551ec
+      internalID: 1670488819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_164
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 24
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7efac6bb2fa4ad0b832bc8b7b84a9a
+      internalID: -514713777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_165
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 24
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd9868c6130742dcb27e61ff06e81b3
+      internalID: 1100555743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_166
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a81a42a52e64d6584862d0e856897b
+      internalID: -1150490338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_167
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b345ad772c432c997ddaf5c209be8
+      internalID: 1347401824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_168
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7886190d237f44079a0adaa38e4160f
+      internalID: 643987505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_169
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ea11cb8490b44bfb690010dd280c28
+      internalID: 932256154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_170
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b823e6d77fa456d904ba9fb10c3549
+      internalID: 1829412669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_171
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 5
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823f6eb2435d74b3d916fd8da35da7f1
+      internalID: -261555737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_172
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 5
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d2d64edebb7491f83c6da4391f1ba8
+      internalID: -596539386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_173
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e5a129887c0462f823e687ae17d831
+      internalID: 1104908995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_174
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56584e08713d4af1b6b6df7a3d69cc3
+      internalID: 1111370125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_175
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2e8140c92ac48b686f07fa6f697550
+      internalID: -767747824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More_Atlas_3_176
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4a9c804d3e1480cbe94c9594ceef0b
+      internalID: 17286603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ef46c52bd4c014079b394f472cea2a87
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      More_Atlas_3_0: 1122396517
+      More_Atlas_3_1: 1264677255
+      More_Atlas_3_10: -1446136846
+      More_Atlas_3_100: -546423922
+      More_Atlas_3_101: -494687849
+      More_Atlas_3_102: -1763536277
+      More_Atlas_3_103: -1670682102
+      More_Atlas_3_104: -959634488
+      More_Atlas_3_105: -1311605242
+      More_Atlas_3_106: -301488495
+      More_Atlas_3_107: 936810297
+      More_Atlas_3_108: -1503914880
+      More_Atlas_3_109: 1929951062
+      More_Atlas_3_11: 1310139929
+      More_Atlas_3_110: 2017972094
+      More_Atlas_3_111: -1978159271
+      More_Atlas_3_112: -1605761682
+      More_Atlas_3_113: 485040830
+      More_Atlas_3_114: -1793801467
+      More_Atlas_3_115: -1940007054
+      More_Atlas_3_116: -1778698510
+      More_Atlas_3_117: 2061826342
+      More_Atlas_3_118: -1792760363
+      More_Atlas_3_119: -998196528
+      More_Atlas_3_12: -1905797939
+      More_Atlas_3_120: -1510388365
+      More_Atlas_3_121: -126746588
+      More_Atlas_3_122: -2134355106
+      More_Atlas_3_123: -1275113215
+      More_Atlas_3_124: 1340667656
+      More_Atlas_3_125: 714594396
+      More_Atlas_3_126: -47647709
+      More_Atlas_3_127: -1578274503
+      More_Atlas_3_128: 976686958
+      More_Atlas_3_129: 1774395140
+      More_Atlas_3_13: -442648813
+      More_Atlas_3_130: 1426935330
+      More_Atlas_3_131: 1178076678
+      More_Atlas_3_132: 1524578378
+      More_Atlas_3_133: 1340888451
+      More_Atlas_3_134: -71592005
+      More_Atlas_3_135: -121735971
+      More_Atlas_3_136: 688031113
+      More_Atlas_3_137: 429558579
+      More_Atlas_3_138: -1894297571
+      More_Atlas_3_139: 1109834590
+      More_Atlas_3_14: -921553612
+      More_Atlas_3_140: 1024137323
+      More_Atlas_3_141: -950520846
+      More_Atlas_3_142: -392459759
+      More_Atlas_3_143: 346195331
+      More_Atlas_3_144: -2108253300
+      More_Atlas_3_145: -630891053
+      More_Atlas_3_146: -1041907898
+      More_Atlas_3_147: 1741780127
+      More_Atlas_3_148: -157279949
+      More_Atlas_3_149: 1325781156
+      More_Atlas_3_15: -749838818
+      More_Atlas_3_150: 955291617
+      More_Atlas_3_151: 1784728973
+      More_Atlas_3_152: 1023067505
+      More_Atlas_3_153: -1025861097
+      More_Atlas_3_154: 58291093
+      More_Atlas_3_155: -944303599
+      More_Atlas_3_156: 1032413067
+      More_Atlas_3_157: 1961775961
+      More_Atlas_3_158: -110492560
+      More_Atlas_3_159: -482554095
+      More_Atlas_3_16: 2073886494
+      More_Atlas_3_160: -1446952394
+      More_Atlas_3_161: 496542166
+      More_Atlas_3_162: -629198846
+      More_Atlas_3_163: 1670488819
+      More_Atlas_3_164: -514713777
+      More_Atlas_3_165: 1100555743
+      More_Atlas_3_166: -1150490338
+      More_Atlas_3_167: 1347401824
+      More_Atlas_3_168: 643987505
+      More_Atlas_3_169: 932256154
+      More_Atlas_3_17: -213040818
+      More_Atlas_3_170: 1829412669
+      More_Atlas_3_171: -261555737
+      More_Atlas_3_172: -596539386
+      More_Atlas_3_173: 1104908995
+      More_Atlas_3_174: 1111370125
+      More_Atlas_3_175: -767747824
+      More_Atlas_3_176: 17286603
+      More_Atlas_3_18: 1986095228
+      More_Atlas_3_19: 1650068359
+      More_Atlas_3_2: 924029302
+      More_Atlas_3_20: -515665088
+      More_Atlas_3_21: -1242255692
+      More_Atlas_3_22: 1694515323
+      More_Atlas_3_23: -1671522480
+      More_Atlas_3_24: 1555890588
+      More_Atlas_3_25: 1337578133
+      More_Atlas_3_26: 362115030
+      More_Atlas_3_27: 865917176
+      More_Atlas_3_28: -728431348
+      More_Atlas_3_29: 578113254
+      More_Atlas_3_3: 279402558
+      More_Atlas_3_30: 113615893
+      More_Atlas_3_31: -356116893
+      More_Atlas_3_32: 1860301978
+      More_Atlas_3_33: -613832102
+      More_Atlas_3_34: -292914181
+      More_Atlas_3_35: 1729296693
+      More_Atlas_3_36: -2053591119
+      More_Atlas_3_37: -814620071
+      More_Atlas_3_38: 569636565
+      More_Atlas_3_39: -621836410
+      More_Atlas_3_4: 506594682
+      More_Atlas_3_40: 1023868924
+      More_Atlas_3_41: -1571668377
+      More_Atlas_3_42: -127262871
+      More_Atlas_3_43: 202994398
+      More_Atlas_3_44: -2129265266
+      More_Atlas_3_45: -90691097
+      More_Atlas_3_46: -2130099357
+      More_Atlas_3_47: 1248493581
+      More_Atlas_3_48: 1276652139
+      More_Atlas_3_49: -602571740
+      More_Atlas_3_5: -613686124
+      More_Atlas_3_50: 1195507176
+      More_Atlas_3_51: 1648692424
+      More_Atlas_3_52: 1109821806
+      More_Atlas_3_53: 1466621175
+      More_Atlas_3_54: 1738270484
+      More_Atlas_3_55: -973458713
+      More_Atlas_3_56: -1728884875
+      More_Atlas_3_57: -329787285
+      More_Atlas_3_58: -1912965066
+      More_Atlas_3_59: -1239678536
+      More_Atlas_3_6: 978878996
+      More_Atlas_3_60: -2106928965
+      More_Atlas_3_61: 540909062
+      More_Atlas_3_62: -374654501
+      More_Atlas_3_63: 1116045433
+      More_Atlas_3_64: 220915914
+      More_Atlas_3_65: -772463152
+      More_Atlas_3_66: -1966047415
+      More_Atlas_3_67: -297836663
+      More_Atlas_3_68: -385936181
+      More_Atlas_3_69: -835600892
+      More_Atlas_3_7: -1068091391
+      More_Atlas_3_70: 1959049762
+      More_Atlas_3_71: -1376541047
+      More_Atlas_3_72: -684413549
+      More_Atlas_3_73: -83769592
+      More_Atlas_3_74: 1719300120
+      More_Atlas_3_75: 2139642891
+      More_Atlas_3_76: 361924627
+      More_Atlas_3_77: 1706152143
+      More_Atlas_3_78: -1367312045
+      More_Atlas_3_79: 1285571150
+      More_Atlas_3_8: 1314619654
+      More_Atlas_3_80: -386667178
+      More_Atlas_3_81: 377997499
+      More_Atlas_3_82: -1556545863
+      More_Atlas_3_83: 606556263
+      More_Atlas_3_84: -2104225315
+      More_Atlas_3_85: 378632914
+      More_Atlas_3_86: -1047908938
+      More_Atlas_3_87: -2034334184
+      More_Atlas_3_88: -1648451174
+      More_Atlas_3_89: -1682053045
+      More_Atlas_3_9: -507210542
+      More_Atlas_3_90: 551977705
+      More_Atlas_3_91: 470332482
+      More_Atlas_3_92: -115006378
+      More_Atlas_3_93: -1047860948
+      More_Atlas_3_94: 1285159386
+      More_Atlas_3_95: 1697391448
+      More_Atlas_3_96: -1379666660
+      More_Atlas_3_97: 1436099227
+      More_Atlas_3_98: 108612935
+      More_Atlas_3_99: 998644081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 7a1ff0d40a4a3944488e4ae8225a0c16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6040947023388352385
+    second: GP_Base_SymbolAll_0
+  - first:
+      213: 2644717853303552155
+    second: GP_Base_SymbolAll_1
+  - first:
+      213: 2635631036791495971
+    second: GP_Base_SymbolAll_2
+  - first:
+      213: 1380869970166469978
+    second: GP_Base_SymbolAll_3
+  - first:
+      213: -8497972811752756314
+    second: GP_Base_SymbolAll_4
+  - first:
+      213: -2113233679374045610
+    second: GP_Base_SymbolAll_5
+  - first:
+      213: 5945274899793126176
+    second: GP_Base_SymbolAll_6
+  - first:
+      213: 8687971309661301828
+    second: GP_Base_SymbolAll_7
+  - first:
+      213: 2967888226230566665
+    second: GP_Base_SymbolAll_8
+  - first:
+      213: -8719338606063579686
+    second: GP_Base_SymbolAll_9
+  - first:
+      213: -8724934576097260889
+    second: GP_Base_SymbolAll_10
+  - first:
+      213: -8353833735744193753
+    second: GP_Base_SymbolAll_11
+  - first:
+      213: 44051083253139256
+    second: GP_Base_SymbolAll_12
+  - first:
+      213: 6570100946753584968
+    second: GP_Base_SymbolAll_13
+  - first:
+      213: 8909283934714450210
+    second: GP_Base_SymbolAll_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 182
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e657fe249c90743805af6739db81ee
+      internalID: -1694818849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 282
+        width: 182
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be04959adbb3e9844beb5b92af7676f7
+      internalID: -1354644612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 282
+        width: 182
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb0d91ed75b51e4e92e6371cae45b8e
+      internalID: 1193587020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 281
+        width: 184
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bb8d102972a774d9e72ac0fccd3f44
+      internalID: 1612744390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 281
+        width: 184
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74623e9b6a86bf45a5857dbdb6870a7
+      internalID: -1509576035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 184
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502780335bf0c554f847440039bee654
+      internalID: 2074977660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 140
+        width: 184
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59dae45af6517449a9490be5bf0f6a6
+      internalID: 28432221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 140
+        width: 184
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daee96aee17dbe4caf26ffb0dc9926f
+      internalID: -131184422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 140
+        width: 184
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df97f061c962b36488004c4f135d73c5
+      internalID: -1425827644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 140
+        width: 184
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af44fafca1e27b743abc325d878532e2
+      internalID: -1532640041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 182
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e437d478043374e91ff01ae9c7289d
+      internalID: -1605649125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_11
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 281
+        width: 184
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa1a1e81b824ca42aa94cdb8c5c9788
+      internalID: 2047134205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP_Base_SymbolAll_12
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 140
+        width: 184
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f02c0c52c8378242bd7ab41c990906a
+      internalID: -24331762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8f88f01038a59b5408cf3c104ba123e9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GP_Base_SymbolAll_0: -1694818849
+      GP_Base_SymbolAll_1: -1354644612
+      GP_Base_SymbolAll_10: -1605649125
+      GP_Base_SymbolAll_11: 2047134205
+      GP_Base_SymbolAll_12: -24331762
+      GP_Base_SymbolAll_2: 1193587020
+      GP_Base_SymbolAll_3: 1612744390
+      GP_Base_SymbolAll_4: -1509576035
+      GP_Base_SymbolAll_5: 2074977660
+      GP_Base_SymbolAll_6: 28432221
+      GP_Base_SymbolAll_7: -131184422
+      GP_Base_SymbolAll_8: -1425827644
+      GP_Base_SymbolAll_9: -1532640041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

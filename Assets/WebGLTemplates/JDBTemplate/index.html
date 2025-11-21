@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>{{{ PRODUCT_NAME }}}</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="manifest" href="manifest.webmanifest">
+</head>
+<body>
+
+    <div id="unity-container">
+
+        <canvas id="unity-canvas" width={{{ WIDTH }}} height={{{ HEIGHT }}} tabindex="-1"></canvas>
+
+        <div id="unity-loading-bar" style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+            <img src="./LogoAnim.png" alt="Example gif" width="200" height="146"> <br />
+            <div id="unity-progress-bar-back">
+                <div id="unity-progress-bar-full">
+                    <div id="unity-progress-anim-bar-full">
+                        <div id="unity-progress-bar-empty"></div>
+                    </div>
+                </div>
+            <div id="unity-warning"> </div>
+        </div>
+        <script>
+            var instance;
+        window.addEventListener("load", function () {
+        if ("serviceWorker" in navigator) {
+          navigator.serviceWorker.register("ServiceWorker.js");
+        }
+        });
+       // console.log("Message Listener Create");
+
+        window.addEventListener("message", (event) => {
+            //console.log("Message Listener addded");
+            console.log(event.message);
+            //console.log(event.data);
+
+            // Ensure the message comes from a trusted origin
+            //const allowedOrigin = "https://demogames.ibibe.africa/crazy777/Crazy777WebBuild/"; // Replace with your React app's origin
+           // if (event.origin !== allowedOrigin) {
+               // console.warn("Received message from an untrusted origin:", event.origin);
+                //return;
+            //}
+
+            // Handle the message
+            //instance.SendMessage("FetchUserInfo", "GetPageData", event.data);
+            const { action, userId, mode, gameId, language, clientId,currency } = event.data;
+
+            if (action === "setUserId") {
+                //console.log("Received userId in Unity iframe:", userId);
+                instance.SendMessage("FetchUserInfo", "SetPlayerId", userId);
+                instance.SendMessage("FetchUserInfo", "SetMode", mode);
+                instance.SendMessage("FetchUserInfo", "SetGameId", gameId);
+                instance.SendMessage("FetchUserInfo", "SetClientId", clientId);
+                instance.SendMessage("FetchUserInfo", "SetLanguage", language);
+                instance.SendMessage("FetchUserInfo", "SetCurrency", currency);
+                // Here, you can pass the userId to Unity using the UnityInstance API
+                if (typeof instance !== "undefined") {
+                    //instance.SendMessage("FetchUserInfo", "SetUserId", userId); // Example Unity call
+                    //SendMessage
+                }
+            }
+        });
+
+
+
+
+      var container = document.querySelector("#unity-container");
+      var canvas = document.querySelector("#unity-canvas");
+      var loadingBar = document.querySelector("#unity-loading-bar");
+            var progressBarFull = document.querySelector("#unity-progress-bar-full");
+            var progressBaranimFull = document.querySelector("#unity-progress-anim-bar-full");
+            var warningBanner = document.querySelector("#unity-warning");
+            let lastTime = performance.now();
+
+
+
+      // Shows a temporary message banner/ribbon for a few seconds, or
+      // a permanent error message on top of the canvas if type=='error'.
+      // If type=='warning', a yellow highlight color is used.
+      // Modify or remove this function to customize the visually presented
+      // way that non-critical warnings and error messages are presented to the
+      // user.
+        function unityShowBanner(msg, type) {
+            if (type != 'error') {
+                return;
+            }
+        function updateBannerVisibility() {
+          warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
+        }
+        var div = document.createElement('div');
+        div.innerHTML = msg;
+        warningBanner.appendChild(div);
+        if (type == 'error') div.style = 'background: red; padding: 10px;';
+        else {
+          if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
+          setTimeout(function() {
+            warningBanner.removeChild(div);
+            updateBannerVisibility();
+          }, 5000);
+        }
+        updateBannerVisibility();
+      }
+
+      var buildUrl = "Build";
+      var loaderUrl = buildUrl + "/{{{ LOADER_FILENAME }}}";
+        var config = {
+
+
+
+        arguments: [],
+        dataUrl: buildUrl + "/{{{ DATA_FILENAME }}}",
+        frameworkUrl: buildUrl + "/{{{ FRAMEWORK_FILENAME }}}",
+#if USE_THREADS
+        workerUrl: buildUrl + "/{{{ WORKER_FILENAME }}}",
+#endif
+#if USE_WASM
+        codeUrl: buildUrl + "/{{{ CODE_FILENAME }}}",
+#endif
+#if SYMBOLS_FILENAME
+        symbolsUrl: buildUrl + "/{{{ SYMBOLS_FILENAME }}}",
+#endif
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: {{{ JSON.stringify(COMPANY_NAME) }}},
+        productName: {{{ JSON.stringify(PRODUCT_NAME) }}},
+        productVersion: {{{ JSON.stringify(PRODUCT_VERSION) }}},
+        showBanner: unityShowBanner,
+
+
+            cacheControl: function (buildUrl) {
+                // Caching enabled for .data and .bundle files.
+                // Revalidate if file is up to date before loading from cache
+
+                return "must-revalidate";
+
+                if (buildUrl.match(/\.data/) || buildUrl.match(/\.bundle/)) {
+                    return "must-revalidate";
+                }
+
+                // Caching enabled for .mp4 and .custom files
+                // Load file from cache without revalidation.
+                if (buildUrl.match(/\.mp4/) || buildUrl.match(/\.custom/)) {
+                    return "immutable";
+                }
+
+                // Disable explicit caching for all other files.
+                // Note: the default browser cache may cache them anyway.
+                return "no-store";
+            },
+      };
+
+      // By default Unity keeps WebGL canvas render target size matched with
+      // the DOM size of the canvas element (scaled by window.devicePixelRatio)
+      // Set this to false if you want to decouple this synchronization from
+      // happening inside the engine, and you would instead like to size up
+      // the canvas DOM size and WebGL render target sizes yourself.
+      // config.matchWebGLToCanvasSize = false;
+
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        // Mobile device style: fill the whole browser client area with the game canvas:
+        var meta = document.createElement('meta');
+        meta.name = 'viewport';
+        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+        document.getElementsByTagName('head')[0].appendChild(meta);
+      }
+
+#if BACKGROUND_FILENAME
+      canvas.style.background = "url('" + buildUrl + "/{{{ BACKGROUND_FILENAME.replace(/'/g, '%27') }}}') center / cover";
+#endif
+      loadingBar.style.display = "block";
+
+      var script = document.createElement("script");
+      script.src = loaderUrl;
+      script.onload = () => {
+          createUnityInstance(canvas, config, (progress) => {
+              let currentTime = performance.now();
+              //console.log(currentTime + "|" + lastTime);
+              let deltaTime = (currentTime - lastTime) / 1000; // Convert ms to seconds
+             // console.log(deltaTime);
+              if (deltaTime > 3) {
+              progressBaranimFull.style.width = 100 * 1 + "%";
+
+          }else {
+              progressBaranimFull.style.width = 100 * 0 + "%";
+
+          }
+            progressBarFull.style.width = 100 * progress + "%";
+        }).then((unityInstance) => {
+            instance = unityInstance;
+            loadingBar.style.display = "none";
+           // window.parent.postMessage("RequestInfo", "*");
+            //console.log(getLocaltime());
+           // console.log(new Date().getTimezoneOffset() / -60);
+           // unityInstance.SendMessage("FetchUserInfo", "SetUserId", "23");
+
+        }).catch((message) => {
+          alert(message);
+        });
+      };
+        document.body.appendChild(script);
+        </script>
+
+</body>
+
+</html>
+
+<script>function getLocaltime() {
+        return new Date().toLocaleTimeString();
+    }</script>

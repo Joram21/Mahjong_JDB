@@ -1,0 +1,1031 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!29 &1
+OcclusionCullingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_OcclusionBakeSettings:
+    smallestOccluder: 5
+    smallestHole: 0.25
+    backfaceThreshold: 100
+  m_SceneGUID: 00000000000000000000000000000000
+  m_OcclusionCullingData: {fileID: 0}
+--- !u!104 &2
+RenderSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 10
+  m_Fog: 0
+  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_FogMode: 3
+  m_FogDensity: 0.01
+  m_LinearFogStart: 0
+  m_LinearFogEnd: 300
+  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
+  m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  m_AmbientIntensity: 1
+  m_AmbientMode: 0
+  m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_HaloStrength: 0.5
+  m_FlareStrength: 1
+  m_FlareFadeSpeed: 3
+  m_HaloTexture: {fileID: 0}
+  m_SpotCookie: {fileID: 10001, guid: 0000000000000000e000000000000000, type: 0}
+  m_DefaultReflectionMode: 0
+  m_DefaultReflectionResolution: 128
+  m_ReflectionBounces: 1
+  m_ReflectionIntensity: 1
+  m_CustomReflection: {fileID: 0}
+  m_Sun: {fileID: 0}
+  m_UseRadianceAmbientProbe: 0
+--- !u!157 &3
+LightmapSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 13
+  m_BakeOnSceneLoad: 0
+  m_GISettings:
+    serializedVersion: 2
+    m_BounceScale: 1
+    m_IndirectOutputScale: 1
+    m_AlbedoBoost: 1
+    m_EnvironmentLightingMode: 0
+    m_EnableBakedLightmaps: 1
+    m_EnableRealtimeLightmaps: 0
+  m_LightmapEditorSettings:
+    serializedVersion: 12
+    m_Resolution: 2
+    m_BakeResolution: 40
+    m_AtlasSize: 1024
+    m_AO: 0
+    m_AOMaxDistance: 1
+    m_CompAOExponent: 1
+    m_CompAOExponentDirect: 0
+    m_ExtractAmbientOcclusion: 0
+    m_Padding: 2
+    m_LightmapParameters: {fileID: 0}
+    m_LightmapsBakeMode: 1
+    m_TextureCompression: 1
+    m_ReflectionCompression: 2
+    m_MixedBakeMode: 2
+    m_BakeBackend: 1
+    m_PVRSampling: 1
+    m_PVRDirectSampleCount: 32
+    m_PVRSampleCount: 512
+    m_PVRBounces: 2
+    m_PVREnvironmentSampleCount: 256
+    m_PVREnvironmentReferencePointCount: 2048
+    m_PVRFilteringMode: 1
+    m_PVRDenoiserTypeDirect: 1
+    m_PVRDenoiserTypeIndirect: 1
+    m_PVRDenoiserTypeAO: 1
+    m_PVRFilterTypeDirect: 0
+    m_PVRFilterTypeIndirect: 0
+    m_PVRFilterTypeAO: 0
+    m_PVREnvironmentMIS: 1
+    m_PVRCulling: 1
+    m_PVRFilteringGaussRadiusDirect: 1
+    m_PVRFilteringGaussRadiusIndirect: 1
+    m_PVRFilteringGaussRadiusAO: 1
+    m_PVRFilteringAtrousPositionSigmaDirect: 0.5
+    m_PVRFilteringAtrousPositionSigmaIndirect: 2
+    m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ExportTrainingData: 0
+    m_TrainingDataDestination: TrainingData
+    m_LightProbeSampleCountMultiplier: 4
+  m_LightingDataAsset: {fileID: 20201, guid: 0000000000000000f000000000000000, type: 0}
+  m_LightingSettings: {fileID: 0}
+--- !u!196 &4
+NavMeshSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_BuildSettings:
+    serializedVersion: 3
+    agentTypeID: 0
+    agentRadius: 0.5
+    agentHeight: 2
+    agentSlope: 45
+    agentClimb: 0.4
+    ledgeDropHeight: 0
+    maxJumpAcrossDistance: 0
+    minRegionArea: 2
+    manualCellSize: 0
+    cellSize: 0.16666667
+    manualTileSize: 0
+    tileSize: 256
+    buildHeightMesh: 0
+    maxJobWorkers: 0
+    preserveTilesOutsideBounds: 0
+    debug:
+      m_Flags: 0
+  m_NavMeshData: {fileID: 0}
+--- !u!1 &39926174
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 39926176}
+  - component: {fileID: 39926175}
+  m_Layer: 0
+  m_Name: Directional Light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!108 &39926175
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 39926174}
+  m_Enabled: 1
+  serializedVersion: 11
+  m_Type: 1
+  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Intensity: 1
+  m_Range: 10
+  m_SpotAngle: 30
+  m_InnerSpotAngle: 21.80208
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 2
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
+  m_ForceVisible: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+  m_LightUnit: 1
+  m_LuxAtDistance: 1
+  m_EnableSpotReflector: 1
+--- !u!4 &39926176
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 39926174}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &257116567
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 257116568}
+  - component: {fileID: 257116569}
+  m_Layer: 0
+  m_Name: LanguageMan
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &257116568
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 257116567}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -100.80197, y: 927.5254, z: 0.41433284}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &257116569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 257116567}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c07d014daa18144b9b4f1224d72fdce7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onLanguageRefresh:
+    m_PersistentCalls:
+      m_Calls: []
+  TranslationDocument: {fileID: 4900000, guid: e85b6225869714264ac05c83c2a769a0, type: 3}
+  ActiveLanguage: 0
+  All_Game_Text: 
+  Data:
+  - CODE
+  - ENGLISH
+  - CHINESE
+  - JAPAN
+  - SPANISH
+  - SWAHILI
+  - DANISH
+  - THAI
+  - INDONESIA
+  - VIETNAM
+  - PORTOGUESE
+  - KOREA
+  - BURMESE
+  - L_2
+  - Hello
+  - "\u4F60\u597D"
+  - "\u3053\u3093\u306B\u3061\u306F"
+  - Hola
+  - Habari
+  - Hej
+  - "\u0E2A\u0E27\u0E31\u0E2A\u0E14\u0E35"
+  - Halo
+  - "Xin ch\xE0o"
+  - "Ol\xE1"
+  - "\uC548\uB155\uD558\uC138\uC694"
+  - "\u1019\u1004\u103A\u1039\u1002\u101C\u102C\u1015\u102B"
+  - L_3
+  - Loading....
+  - "\u8F09\u5165\u4E2D...."
+  - "\u8AAD\u307F\u8FBC\u307F\u4E2D...."
+  - Cargando....
+  - Inapakia....
+  - "Indl\xE6ser..."
+  - "\u0E01\u0E33\u0E25\u0E31\u0E07\u0E42\u0E2B\u0E25\u0E14...."
+  - Memuat....
+  - "\u0110ang t\u1EA3i...."
+  - Carregando....
+  - "\uB85C\uB4DC \uC911...."
+  - "\u1010\u1004\u103A\u1014\u1031\u101E\u100A\u103A...."
+  - L_4
+  - Continue
+  - "\u7E7C\u7E8C"
+  - "\u7D9A\u304F"
+  - Continuar
+  - Endelea
+  - "Forts\xE6tte"
+  - "\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E15\u0E48\u0E2D"
+  - Melanjutkan
+  - "Ti\u1EBFp t\u1EE5c"
+  - Continuar
+  - "\uACC4\uC18D\uD558\uB2E4"
+  - "\u1006\u1000\u103A\u101B\u1014\u103A"
+  - L_5
+  - Don't show next time
+  - "\u4E0B\u6B21\u4E0D\u518D\u986F\u793A"
+  - "\u6B21\u56DE\u306F\u8868\u793A\u3057\u306A\u3044\u3067\u304F\u3060\u3055\u3044"
+  - "No mostrar la pr\xF3xima vez"
+  - Usionyeshe wakati ujao
+  - "Vis ikke n\xE6ste gang"
+  - "\u0E2D\u0E22\u0E48\u0E32\u0E41\u0E2A\u0E14\u0E07\u0E04\u0E23\u0E31\u0E49\u0E07\u0E15\u0E48\u0E2D\u0E44\u0E1B"
+  - Jangan tampilkan lain kali
+  - "\u0110\u1EEBng hi\u1EC3n th\u1ECB l\u1EA7n sau"
+  - "N\xE3o mostre da pr\xF3xima vez"
+  - "\uB2E4\uC74C\uBC88\uC5D0\uB294 \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC74C"
+  - "\u1014\u1031\u102C\u1000\u103A\u1010\u1005\u103A\u1000\u103C\u102D\u1019\u103A
+    \u1019\u1015\u103C\u1015\u102B\u1014\u103E\u1004\u1037\u103A"
+  - L_6
+  - Any 3 Symbol to win.
+  - "\u4EFB 3 \u500B\u7B26\u865F\u5373\u53EF\u7372\u52DD\u3002"
+  - "\u4EFB\u610F\u306E 3 \u30B7\u30F3\u30DC\u30EB\u3067\u52DD\u5229\u3057\u307E\u3059\u3002"
+  - "Cualquier 3 s\xEDmbolos para ganar."
+  - Alama yoyote 3 kushinda.
+  - Ethvert 3 symbol for at vinde.
+  - "3 \u0E2A\u0E31\u0E0D\u0E25\u0E31\u0E01\u0E29\u0E13\u0E4C\u0E43\u0E14 \u0E46
+    \u0E17\u0E35\u0E48\u0E08\u0E30\u0E0A\u0E19\u0E30"
+  - 3 Simbol apa pun untuk menang.
+  - "B\u1EA5t k\u1EF3 3 bi\u1EC3u t\u01B0\u1EE3ng n\xE0o c\u0169ng s\u1EBD gi\xE0nh
+    chi\u1EBFn th\u1EAFng."
+  - "Qualquer 3 s\xEDmbolos para ganhar."
+  - "\uC2B9\uB9AC\uD558\uB824\uBA74 \uAE30\uD638 3\uAC1C\uB97C \uC120\uD0DD\uD558\uC138\uC694."
+  - "\u1021\u1014\u102D\u102F\u1004\u103A\u101B\u101B\u1014\u103A \u101E\u1004\u103A\u1039\u1000\u1031\u1010
+    \u1043 \u1001\u102F\u104B"
+  - L_7
+  - Special wheel,A variety of effects
+  - "\u7279\u6B8A\u8F2A\u5B50\uFF0C\u591A\u7A2E\u6548\u679C"
+  - "\u7279\u6B8A\u30DB\u30A4\u30FC\u30EB\u3001\u591A\u5F69\u306A\u30A8\u30D5\u30A7\u30AF\u30C8"
+  - Rueda especial, una variedad de efectos.
+  - Gurudumu maalum, athari mbalimbali
+  - "Specielt hjul, en r\xE6kke effekter"
+  - "\u0E27\u0E07\u0E25\u0E49\u0E2D\u0E1E\u0E34\u0E40\u0E28\u0E29 \u0E40\u0E2D\u0E1F\u0E40\u0E1F\u0E01\u0E15\u0E4C\u0E2B\u0E25\u0E32\u0E01\u0E2B\u0E25\u0E32\u0E22"
+  - Roda khusus, Berbagai efek
+  - "B\xE1nh xe \u0111\u1EB7c bi\u1EC7t, Nhi\u1EC1u hi\u1EC7u \u1EE9ng"
+  - Roda especial, uma variedade de efeitos
+  - "\uD2B9\uC218 \uD720, \uB2E4\uC591\uD55C \uD6A8\uACFC"
+  - "\u1021\u1011\u1030\u1038\u1018\u102E\u1038\u104A \u101E\u1000\u103A\u101B\u1031\u102C\u1000\u103A\u1019\u103E\u102F\u1019\u103B\u102D\u102F\u1038\u1005\u102F\u1036"
+  - L_8
+  - 'Volatility:'
+  - "\u63EE\u767C\u6027\uFF1A"
+  - "\u30DC\u30E9\u30C6\u30A3\u30EA\u30C6\u30A3:"
+  - 'Volatilidad:'
+  - 'Tete:'
+  - 'Volatilitet:'
+  - "\u0E04\u0E27\u0E32\u0E21\u0E1C\u0E31\u0E19\u0E1C\u0E27\u0E19:"
+  - 'Keriangan:'
+  - "Bi\u1EBFn \u0111\u1ED9ng:"
+  - 'Volatilidade:'
+  - "\uD718\uBC1C\uC131:"
+  - "\u1019\u1010\u100A\u103A\u1004\u103C\u102D\u1019\u103A\u1019\u103E\u102F-"
+  - L_9
+  - WIN
+  - "\u8D0F"
+  - "\u52DD\u3064"
+  - GANAR
+  - SHINDA
+  - VINDE
+  - "\u0E0A\u0E19\u0E30"
+  - MENANG
+  - "TH\u1EAENG"
+  - GANHAR
+  - "\uC774\uAE30\uB2E4"
+  - "\u1021\u1014\u102D\u102F\u1004\u103A\u101B"
+  - L_10
+  - PLAY
+  - "\u73A9"
+  - "\u904A\u3076"
+  - JUGAR
+  - CHEZA
+  - SPIL
+  - "\u0E40\u0E25\u0E48\u0E19"
+  - BERMAIN
+  - "CH\u01A0I"
+  - JOGAR
+  - "\uB180\uB2E4"
+  - "\u1000\u1005\u102C\u1038\u1015\u102B\u104B"
+  - L_11
+  - 'Balance:'
+  - "\u5E73\u8861\uFF1A"
+  - "\u30D0\u30E9\u30F3\u30B9\uFF1A"
+  - 'Balance:'
+  - 'Salio:'
+  - 'Balance:'
+  - "\u0E2A\u0E21\u0E14\u0E38\u0E25:"
+  - 'Keseimbangan:'
+  - "S\u1EF1 c\xE2n b\u1EB1ng:"
+  - "Equil\xEDbrio:"
+  - "\uADE0\uD615:"
+  - "\u101C\u1000\u103A\u1000\u103B\u1014\u103A-"
+  - L_12
+  - 'Bet:'
+  - "\u8CED\u6CE8\uFF1A"
+  - "\u30D9\u30C3\u30C8\uFF1A"
+  - 'Apuesta:'
+  - 'Dau:'
+  - "V\xE6dde:"
+  - "\u0E40\u0E14\u0E34\u0E21\u0E1E\u0E31\u0E19:"
+  - 'Bertaruh:'
+  - "\u0110\u1EB7t c\u01B0\u1EE3c:"
+  - 'Aposta:'
+  - "\uB0B4\uAE30:"
+  - "\u101C\u1031\u102C\u1004\u103A\u1038\u1000\u103C\u1031\u1038-"
+  - L_13
+  - System
+  - "\u7CFB\u7D71"
+  - "\u30B7\u30B9\u30C6\u30E0"
+  - Sistema
+  - Mfumo
+  - System
+  - "\u0E23\u0E30\u0E1A\u0E1A"
+  - Sistem
+  - "H\u1EC7 th\u1ED1ng"
+  - Sistema
+  - "\uCCB4\uACC4"
+  - "\u1005\u1014\u1005\u103A"
+  - L_14
+  - You have been idle for too long,please login again.
+  - "\u60A8\u5DF2\u7D93\u9592\u7F6E\u592A\u4E45\uFF0C\u8ACB\u91CD\u65B0\u767B\u5165\u3002"
+  - "\u30A2\u30A4\u30C9\u30EB\u72B6\u614B\u304C\u9577\u3059\u304E\u307E\u3059\u3002\u518D\u5EA6\u30ED\u30B0\u30A4\u30F3\u3057\u3066\u304F\u3060\u3055\u3044\u3002"
+  - "Ha estado inactivo durante demasiado tiempo, inicie sesi\xF3n nuevamente."
+  - Umekuwa bila kufanya kitu kwa muda mrefu sana, tafadhali ingia tena.
+  - "Du har v\xE6ret inaktiv for l\xE6nge, \u200B\u200Blog venligst ind igen."
+  - "\u0E04\u0E38\u0E13\u0E44\u0E21\u0E48\u0E44\u0E14\u0E49\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E40\u0E27\u0E25\u0E32\u0E19\u0E32\u0E19\u0E40\u0E01\u0E34\u0E19\u0E44\u0E1B
+    \u0E01\u0E23\u0E38\u0E13\u0E32\u0E40\u0E02\u0E49\u0E32\u0E2A\u0E39\u0E48\u0E23\u0E30\u0E1A\u0E1A\u0E2D\u0E35\u0E01\u0E04\u0E23\u0E31\u0E49\u0E07"
+  - Anda sudah terlalu lama menganggur, silakan login lagi.
+  - "B\u1EA1n \u0111\xE3 kh\xF4ng ho\u1EA1t \u0111\u1ED9ng qu\xE1 l\xE2u, vui l\xF2ng
+    \u0111\u0103ng nh\u1EADp l\u1EA1i."
+  - "Voc\xEA ficou inativo por muito tempo, fa\xE7a login novamente."
+  - "\uB108\uBB34 \uC624\uB7AB\uB3D9\uC548 \uC811\uC18D\uD558\uC9C0 \uC54A\uC73C\uC168\uC2B5\uB2C8\uB2E4.
+    \uB2E4\uC2DC \uB85C\uADF8\uC778\uD574 \uC8FC\uC2ED\uC2DC\uC624."
+  - "\u101E\u1004\u103A \u1015\u103B\u1004\u103A\u1038\u101B\u102D\u1014\u1031\u101E\u100A\u103A\u1019\u103E\u102C
+    \u1000\u103C\u102C\u1015\u103C\u102E\u104A \u1000\u103B\u1031\u1038\u1007\u1030\u1038\u1015\u103C\u102F\u104D
+    \u1011\u1015\u103A\u1019\u1036\u101D\u1004\u103A\u101B\u1031\u102C\u1000\u103A\u1015\u102B\u104B"
+  - L_15
+  - Insufficient balance.
+  - "\u9918\u984D\u4E0D\u8DB3\u3002"
+  - "\u30D0\u30E9\u30F3\u30B9\u304C\u4E0D\u5341\u5206\u3067\u3059\u3002"
+  - Saldo insuficiente.
+  - Usawa usiotosha.
+  - "Utilstr\xE6kkelig balance."
+  - "\u0E22\u0E2D\u0E14\u0E04\u0E07\u0E40\u0E2B\u0E25\u0E37\u0E2D\u0E44\u0E21\u0E48\u0E40\u0E1E\u0E35\u0E22\u0E07\u0E1E\u0E2D"
+  - Saldo tidak mencukupi.
+  - "Kh\xF4ng \u0111\u1EE7 c\xE2n b\u1EB1ng."
+  - "Equil\xEDbrio insuficiente."
+  - "\uC794\uC561\uC774 \uBD80\uC871\uD569\uB2C8\uB2E4."
+  - "\u101C\u1000\u103A\u1000\u103B\u1014\u103A\u1019\u101C\u102F\u1036\u101C\u1031\u102C\u1000\u103A\u104B"
+  - L_16
+  - Confirm
+  - "\u78BA\u8A8D"
+  - "\u78BA\u8A8D\u3059\u308B"
+  - Confirmar
+  - Thibitisha
+  - "Bekr\xE6fte"
+  - "\u0E22\u0E37\u0E19\u0E22\u0E31\u0E19"
+  - Mengonfirmasi
+  - "X\xE1c nh\u1EADn"
+  - Confirmar
+  - "\uD655\uC778\uD558\uB2E4"
+  - "\u1021\u1010\u100A\u103A\u1015\u103C\u102F\u1015\u102B\u104B"
+  - L_17
+  - Server connection interrupted
+  - "\u4F3A\u670D\u5668\u9023\u7DDA\u4E2D\u65B7"
+  - "\u30B5\u30FC\u30D0\u30FC\u63A5\u7D9A\u304C\u4E2D\u65AD\u3055\u308C\u307E\u3057\u305F"
+  - "Conexi\xF3n del servidor interrumpida"
+  - Muunganisho wa seva umekatizwa
+  - Serverforbindelse afbrudt
+  - "\u0E01\u0E32\u0E23\u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E21\u0E15\u0E48\u0E2D\u0E40\u0E0B\u0E34\u0E23\u0E4C\u0E1F\u0E40\u0E27\u0E2D\u0E23\u0E4C\u0E16\u0E39\u0E01\u0E02\u0E31\u0E14\u0E08\u0E31\u0E07\u0E2B\u0E27\u0E30"
+  - Koneksi server terputus
+  - "K\u1EBFt n\u1ED1i m\xE1y ch\u1EE7 b\u1ECB gi\xE1n \u0111o\u1EA1n"
+  - "Conex\xE3o do servidor interrompida"
+  - "\uC11C\uBC84 \uC5F0\uACB0\uC774 \uC911\uB2E8\uB418\uC5C8\uC2B5\uB2C8\uB2E4"
+  - "\u1006\u102C\u1017\u102C\u1001\u103B\u102D\u1010\u103A\u1006\u1000\u103A\u1019\u103E\u102F
+    \u1015\u103C\u1010\u103A\u1010\u1031\u102C\u1000\u103A\u101E\u103D\u102C\u1038\u101E\u100A\u103A\u104B"
+  - L_18
+  - Language
+  - "\u8A9E\u8A00"
+  - "\u8A00\u8A9E"
+  - Idioma
+  - Lugha
+  - Sprog
+  - "\u0E20\u0E32\u0E29\u0E32"
+  - Bahasa
+  - "Ng\xF4n ng\u1EEF"
+  - Linguagem
+  - "\uC5B8\uC5B4"
+  - "\u1018\u102C\u101E\u102C\u1005\u1000\u102C\u1038"
+  - L_19
+  - Translate
+  - "\u7FFB\u8B6F"
+  - "\u7FFB\u8A33\u3059\u308B"
+  - Traducir
+  - Tafsiri
+  - "Overs\xE6tte"
+  - "\u0E41\u0E1B\u0E25"
+  - Menerjemahkan
+  - "D\u1ECBch"
+  - Traduzir
+  - "\uBC88\uC5ED\uD558\uB2E4"
+  - "\u1018\u102C\u101E\u102C\u1015\u103C\u1014\u103A\u1015\u102B\u104B"
+  - L_20
+  - Showcase
+  - "\u5C55\u793A\u6AC3"
+  - "\u30B7\u30E7\u30FC\u30B1\u30FC\u30B9"
+  - Escaparate
+  - Onyesho
+  - Udstillingsvindue
+  - "\u0E15\u0E39\u0E49\u0E42\u0E0A\u0E27\u0E4C"
+  - Memamerkan
+  - "tr\u01B0ng b\xE0y"
+  - Vitrine
+  - "\uC720\uB9AC \uC9C4\uC5F4\uC7A5"
+  - "\u101B\u103E\u102D\u102F\u1038\u1000\u1031\u1037"
+  - L_21
+  - If you see [][][][][] on chinese or  special languages, do the following... /Search 
+    for "TMP Settings"on your browser /Add  NatoSansKR,NatoSansMyanr,NatoSansTC and
+    NatoSansThai to the "FallBack Font Assets" on "TMP Settings.
+  - "\u5982\u679C\u60A8\u5728\u4E2D\u6587\u6216\u7279\u6B8A\u8A9E\u8A00\u4E0A\u770B\u5230
+    [][][][][]\uFF0C\u8ACB\u57F7\u884C\u4EE5\u4E0B\u64CD\u4F5C... /\u5728\u700F\u89BD\u5668\u4E0A\u641C\u5C0B\u300CTMP
+    \u8A2D\u5B9A\u300D /\u5C07 NatoSansKR\u3001NatoSansMyanr\u3001NatoSansTC \u548C
+    NatoSansThai \u65B0\u589E\u81F3\u300CTMP \u8A2D\u5B9A\u300D\u4E0A\u7684\u300C\u5F8C\u5099\u5B57\u9AD4\u8CC7\u6E90\u300D\u3002"
+  - "\u4E2D\u56FD\u8A9E\u307E\u305F\u306F\u7279\u6B8A\u8A00\u8A9E\u3067 [][][][][]
+    \u304C\u8868\u793A\u3055\u308C\u308B\u5834\u5408\u306F\u3001\u6B21\u306E\u64CD\u4F5C\u3092\u884C\u3063\u3066\u304F\u3060\u3055\u3044...
+    /\u30D6\u30E9\u30A6\u30B6\u3067\u300CTMP \u8A2D\u5B9A\u300D\u3092\u691C\u7D22
+    /\u300CTMP \u8A2D\u5B9A\u300D\u306E\u300CFallBack Font Assets\u300D\u306B NatoSansKR\u3001NatoSansMyanr\u3001NatoSansTC\u3001\u304A\u3088\u3073
+    NatoSansThai \u3092\u8FFD\u52A0\u3057\u307E\u3059\u3002"
+  - "Si ve [][][][][] en chino o en idiomas especiales, haga lo siguiente... /Busque
+    \"Configuraci\xF3n de TMP\" en su navegador /Agregue NatoSansKR, NatoSansMyanr,
+    NatoSansTC y NatoSansThai a los \"Activos de fuentes alternativas\" en \"Configuraci\xF3n
+    de TMP."
+  - Ukiona [][][][][][] kwenye Kichina au lugha maalum, fanya yafuatayo... /Tafuta
+    "Mipangilio ya TMP" kwenye kivinjari chako /Ongeza NatoSansKR,NatoSansMyanr,NatoSansTC
+    na NatoSansThai kwenye "FallBack Font Assets" kwenye "TMP Settings.
+  - "Hvis du ser [][][][][] p\xE5 kinesisk eller specialsprog, g\xF8r f\xF8lgende...
+    /S\xF8g efter \"TMP-indstillinger\" i din browser /Tilf\xF8j NatoSansKR,NatoSansMyanr,NatoSansTC
+    og NatoSansThai til \"FallBack Font Assets\" p\xE5 \"TMP-indstillinger."
+  - "\u0E2B\u0E32\u0E01\u0E04\u0E38\u0E13\u0E40\u0E2B\u0E47\u0E19 [][][][][] \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32\u0E08\u0E35\u0E19\u0E2B\u0E23\u0E37\u0E2D\u0E20\u0E32\u0E29\u0E32\u0E1E\u0E34\u0E40\u0E28\u0E29
+    \u0E43\u0E2B\u0E49\u0E17\u0E33\u0E14\u0E31\u0E07\u0E15\u0E48\u0E2D\u0E44\u0E1B\u0E19\u0E35\u0E49...
+    /\u0E04\u0E49\u0E19\u0E2B\u0E32 \"\u0E01\u0E32\u0E23\u0E15\u0E31\u0E49\u0E07\u0E04\u0E48\u0E32
+    TMP\" \u0E1A\u0E19\u0E40\u0E1A\u0E23\u0E32\u0E27\u0E4C\u0E40\u0E0B\u0E2D\u0E23\u0E4C\u0E02\u0E2D\u0E07\u0E04\u0E38\u0E13
+    /\u0E40\u0E1E\u0E34\u0E48\u0E21 NatoSansKR,NatoSansMyanr,NatoSansTC \u0E41\u0E25\u0E30
+    NatoSansThai \u0E25\u0E07\u0E43\u0E19 \"FallBack Font Assets\" \u0E1A\u0E19 \"\u0E01\u0E32\u0E23\u0E15\u0E31\u0E49\u0E07\u0E04\u0E48\u0E32
+    TMP"
+  - Jika Anda melihat [][][][][] dalam bahasa Mandarin atau bahasa khusus, lakukan
+    hal berikut... /Cari "Pengaturan TMP" di browser Anda /Tambahkan NatoSansKR,NatoSansMyanr,NatoSansTC
+    dan NatoSansThai ke "Aset Font FallBack" di "Pengaturan TMP.
+  - "N\u1EBFu b\u1EA1n th\u1EA5y [[][][][] tr\xEAn ti\u1EBFng Trung ho\u1EB7c c\xE1c
+    ng\xF4n ng\u1EEF \u0111\u1EB7c bi\u1EC7t, h\xE3y l\xE0m nh\u01B0 sau... /T\xECm
+    ki\u1EBFm \"C\xE0i \u0111\u1EB7t TMP\" tr\xEAn tr\xECnh duy\u1EC7t c\u1EE7a b\u1EA1n
+    /Th\xEAm NatoSansKR,NatoSansMyanr,NatoSansTC v\xE0 NatoSansThai v\xE0o \"N\u1ED9i
+    dung ph\xF4ng ch\u1EEF d\u1EF1 ph\xF2ng\" tr\xEAn \"C\xE0i \u0111\u1EB7t TMP."
+  - "Se voc\xEA vir [][][][][] em chin\xEAs ou idiomas especiais, fa\xE7a o seguinte...
+    /Procure por \"Configura\xE7\xF5es TMP\" em seu navegador /Adicione NatoSansKR,NatoSansMyanr,NatoSansTC
+    e NatoSansThai aos \"Ativos de fonte FallBack\" em \"Configura\xE7\xF5es TMP."
+  - "\uC911\uAD6D\uC5B4 \uB610\uB294 \uD2B9\uC218 \uC5B8\uC5B4\uB85C [][][][][]\uAC00
+    \uD45C\uC2DC\uB418\uBA74 \uB2E4\uC74C\uC744 \uC218\uD589\uD558\uC2ED\uC2DC\uC624...
+    /\uBE0C\uB77C\uC6B0\uC800\uC5D0\uC11C \"TMP \uC124\uC815\"\uC744 \uAC80\uC0C9\uD569\uB2C8\uB2E4.
+    /NatoSansKR,NatoSansMyanr,NatoSansTC \uBC0F NatoSansThai\uB97C \"TMP \uC124\uC815\"\uC758
+    \"FallBack Font Assets\"\uC5D0 \uCD94\uAC00\uD569\uB2C8\uB2E4."
+  - "\u1010\u101B\u102F\u1010\u103A \u101E\u102D\u102F\u1037\u1019\u101F\u102F\u1010\u103A
+    \u1021\u1011\u1030\u1038\u1018\u102C\u101E\u102C\u1005\u1000\u102C\u1038\u1019\u103B\u102C\u1038\u1010\u103D\u1004\u103A
+    [][][][][] \u1000\u102D\u102F \u101E\u1004\u103A\u1010\u103D\u1031\u1037\u1015\u102B\u1000\u104A
+    \u1021\u1031\u102C\u1000\u103A\u1015\u102B\u1010\u102D\u102F\u1037\u1000\u102D\u102F
+    \u101C\u102F\u1015\u103A\u1006\u1031\u102C\u1004\u103A\u1015\u102B... /\u101E\u1004\u103A\u104F\u1018\u101B\u1031\u102C\u1000\u103A\u1006\u102C\u1010\u103D\u1004\u103A
+    \"TMP \u1006\u1000\u103A\u1010\u1004\u103A\u1019\u103B\u102C\u1038\" \u1000\u102D\u102F\u101B\u103E\u102C\u1015\u102B
+    / Add NatoSansKR\u104A NatoSansMyanr\u104A NatoSansTC \u1014\u103E\u1004\u1037\u103A
+    NatoSansThai \u1010\u102D\u102F\u1037\u1000\u102D\u102F \"FallBack Font Assets\"
+    \u1010\u103D\u1004\u103A \"TMP \u1006\u1000\u103A\u1010\u1004\u103A\u1019\u103B\u102C\u1038\"
+    \u1010\u103D\u1004\u103A \u101B\u103E\u102C\u1016\u103D\u1031\u1015\u102B\u104B"
+--- !u!28 &330459520
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 3
+  m_Width: 35
+  m_Height: 40
+  m_CompleteImageSize: 7380
+  m_MipsStripped: 0
+  m_TextureFormat: 4
+  m_MipCount: 6
+  m_IsReadable: 1
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 1
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 7380
+  _typelessdata: f3bb2c7afcc4417ae1af31ffe6bf44ffe0c14aa5dbc2500bdbc25000dbc25000dbc25000dbc25000e5b84100e5b84100e5b84100e6bc2b00e6bc2b00e5bb3300edba2300edba2300edba2300edba2300eec43100eec43100e2bf3b00e0be3100e0be3100deb32500edbb2100e5c52b00e5c52b00e5be3700e5bf4a00e5bf4a00d8b75e00d6bc5300d8bf6a00f6bd2f7af1b9357aebba34ffdeb828ffdabb28a5d6bc2a0bd6bc2a00d6bc2a00e3bb3500e3bb3500e5b84100ecbb3500ecbb3500e6bc2b00e8bb2b00e5bb3300e5bb3300edba2300e8bb2900e8bb2900eec43100eabd2f00e2bf3b00e2bf3b00e8bb2d00deb32500deb32500e5c52b00e4c02f00e4c02f00e5bf4a00d9b55000d8b75e00d8b75e00d8bf6a00e1a81ae8f1b935e8e5b42cffe7c029ffe4c323ffe2c323fde1c32973e1c32900e3bb3500e9b83500e5b84100e5b84100d5a20f00e6bc2b00e6bc2b00e5bb3300edba2300edba2300edba2300ecbd1e00eec43100eec43100e2bf3b00e0be3100e0be3100deb32500edbb2100e5c52b00e5c52b00e5c52b00e5bf4a00e5bf4a00d8b75e00d6bc5300d8bf6a00f3bb2cf2f4be3af2e5b42effe7ba28ffe5bd20ffe3be1bffe2bf1dffe5bd27e2e3bb353fe3bb3500e5b84100ecbb3500ecbb3500e6bc2b00e8bb2b00e5bb3300e5bb3300edba2300e8bb2900e8bb2900eec43100eabd2f00e2bf3b00e2bf3b00e2bf3b00deb32500deb32500e5c52b00e4c02f00e4c02f00e5bf4a00d9b55000d8b75e00d8b75e00d8bf6a00f2bc2cf2f4be3af2e6b330ffe8b82effe8ba26ffe7bc1dffe8bc1bffe9bc21ffe9bb29ffe9b835afe5b8410ce5b84100e5b84100e6bc2b00e6bc2b00e5bb3300edba2300edba2300edba2300edba2300eec43100eec43100e2bf3b00e0be3100e0be3100deb32500edbb2100e5c52b00e5c52b00e5be3700e5bf4a00e5bf4a00d8b75e00d6bc5300d8bf6a00f2bc2cf2f2bf3af2e6b232ffeab538ffeab732ffebb826ffebb920fff0b921fff0b825fff0b62fffeeb633ffecbb3579ecbb3500e6bc2b00e8bb2b00e5bb3300e5bb3300edba2300e8bb2900e8bb2900eec43100eabd2f00e2bf3b00e2bf3b00e8bb2d00deb32500deb32500e5c52b00e4c02f00e4c02f00e5bf4a00d9b55000d8b75e00d8b75e00d8bf6a00f0bc2cf2f2bf3af2e5b334ffeab53affebb536ffedb62cffefb724fff1b823fff1b725fff3b52bfff1b62bffecb423ffd5a20fe5e6bc2b43e6bc2b00e5bb3300edba2300edba2300edba2300ecbd1e00eec43100eec43100e2bf3b00e0be3100e0be3100deb32500edbb2100e5c52b00e5c52b00e5c52b00e5bf4a00e5bf4a00d8b75e00d6bc5300d8bf6a00f0bc2cf2f0c03af2e5b430ffeab732ffebb630ffedb62cffedb72affeeb829ffeeb829ffeeb829ffeeb829ffecb624ffedb927ffebba27ffe8bb2bbae5bb331ae5bb3300edba2300e8bb2900e8bb2900eec43100eabd2f00e2bf3b00e2bf3b00e2bf3b00deb32500deb32500e5c52b00e4c02f00e4c02f00e5bf4a00d9b55000d8b75e00d8b75e00d8bf6a00efbd2cf2f0c03af2e5b430ffeab72effebb72cffedb62cffedb62cffedb92bffedb92bffedb929ffedb929ffedb927ffedb927ffedba25ffedba25ffedba23ffedba238dedba2301edba2300edba2300eec43100eec43100e2bf3b00e0be3100e0be3100deb32500edbb2100e5c52b00e5c52b00e5be3700e5bf4a00e5bf4a00d8b75e00d6bc5300d8bf6a00efbd2cf2f0c03af2e5b430ffeab72effebb72cffebb72cffebb72cffedb92bffedb92bffedb929ffedb929ffedb927ffedb927ffedba25ffedba25ffedba23ffedba23ffedba23efe8bb294ae8bb2900eec43100eabd2f00e2bf3b00e2bf3b00e8bb2d00deb32500deb32500e5c52b00e4c02f00e4c02f00e5bf4a00d9b55000d8b75e00d8b75e00d8bf6a00efbd2cf2f0c03af2e5b430ffebb92fffedb82dffedb82dffedb82dffedb92bffedb92bffedb929ffedb929ffedb927ffedb927ffedba25ffedba25ffedba23ffedba23ffedba23ffebb920ffecbd1ebeeec4311feec43100e2bf3b00e0be3100e0be3100deb32500edbb2100e5c52b00e5c52b00e5c52b00e5bf4a00e5bf4a00d8b75e00d6bc5300d8bf6a00edbc2bf2eebf39f2e2b32fffebb92fffedb82dffedb82dffedb82dffedb92bffedb92bffedb929ffedb929ffedb927ffedb927ffedba25ffedba25ffedba23ffedba23ffeebb24ffefba24fff3b826fff1b82affeabd2f92e2bf3b03e2bf3b00e2bf3b00deb32500deb32500e5c52b00e4c02f00e4c02f00e5bf4a00d9b55000d8b75e00d8b75e00d8bf6a00ecbd2bf2eebf39f2e2b32fffecba30ffeeb92effeeb92effeeb92effedb92bffedb92bffedb929ffedb929ffedb927ffedb927ffedba25ffedba25ffedba23ffedba23ffeebb24ffefba26fff4b72afff4b72affefbc27ffe9bd2af3e0be315ae0be3100deb32500edbb2100e5c52b00e5c52b00e5be3700e5bf4a00e5bf4a00d8b75e00d6bc5300d8bf6a00ecbd2bf2eebf39f2e2b32fffecba30ffeeb92effeeb92effeeb92effedb92bffedb92bffedb929ffedb929ffedb927ffedb927ffedba25ffedba25ffedba23ffedba23ffeebb24ffefba26fff1b82afff1b82cfff1ba2fffeeb92effe9ba2dffe8bb2dd0deb3252fdeb32500e5c52b00e4c02f00e4c02f00e5bf4a00d9b55000d8b75e00d8b75e00d8bf6a00ecbd2bf2eebf39f2e2b42dffedb92bffefb92affecbb2cffeeba2cfff0b729fff0b827ffedb929ffedb929ffeeb829ffeeb927ffeeb927ffeeb925ffeeb925ffeeb925ffefba26ffefba28ffefb92cffeeba2cffedbc29ffedbd27ffefbc29ffe4ae1afffec52bffedbb2199e5c52b04e5c52b00e5c52b00e5bf4a00e5bf4a00d8b75e00d6bc5300d8bf6a00ecbd2bf2eebf39f2e4b32bffecb51fffeeb71cffe6b821ffeab926ffffc532fff2b420ffe3ad1bffe7b323ffeab123ffeeb526fff3bb2afff7bf2effe9b120ffeeb524fff2ba29fff3bb2cffeeb92effebbc28ffecc81cffeecb1affe7bc1dfffec633fff2ac20fff1ad20ffecbe25f5e4c02f5fe4c02f00e5bf4a00d9b55000d8b75e00d8b75e00d8bf6a00ecbd2bf2eebf39f2e4b429ffe7b017fff3be25ffe3b829fff2c539fff9ba2bfff6b621ffeab81effebbc28ffebb831ffeab634ffeab732ffeab732ffebb833ffecb934ffebb833ffeebd3cfff2c34dfff1ca4affe9d035ffe8d030fffddb4efff0bf3cffefac28ffffbb31ffefbc25ffe9bf29ffe5be37d3e5bf4a33e5bf4a00d8b75e00d6bc5300d8bf6a00ecbd2bf2eebf39f2e2b42bffe8b522ffe3b123fff2c850fffacd58fffdc240ffe9af1dffe8bd15ffffde3dffffe365ffffdb6dfff9d564fff4d05ffff3cf5efff1cd5cffe8c352ffe0bc57ffd3b45fffc7ae5cffb9a948ffb2a33dffa99233ffecc860ffe9b837fff8c230ffebbd26ffe7bd2cffe4bc38ffdfb944ffd9b550aad8b75e0fd8b75e00d8bf6a00ecbd2bf2eebf39f2e0b42dffdeb526fff4d04fff735400ff3d1c00ffb88b1dfff2c545fff1d23fffa48c07ff8a7216ff7d671fff6f5911ff665007ff5e4700ff543e00ff473000ff3a2500ff2e1500ff1f0a00ff090000ff000000ff210e00ff4a2f00ffe5bf48fff1c637ffe9bd2affe7bd2effe4bd36ffe1bd3effddbc43ffc9ac3bffd6bc5340d8bf6a40ecbd2bf2eebf39f2dcb62ffff7e152ff887805ff0c0000ff150300ff341800ffeace6fffad9b41ff190e00ff0f0700ff090200ff050000ff040000ff060000ff060000ff020000ff010000ff050000ff070000ff030000ff040000ff0d0000ff1b0200ff94720effeac23effe7bc30ffe7bd2cffe4bf2cffe1c02cffdec12effd9c22dffd6c32fd3d2c04dd3edbc2bf2eebf39f2dcb631ffe5ce42ff998c15ff070000ff070000ff402500fff6da7bffbbac54ff0a0000ff000000ff010000ff0c0100ff130800ff030000ff0a0000ff140a00ff190c00ff170200ff0e0000ff060000ff020000ff0d0000ff0f0000ffa7861dfff5cd44ffe7bd2effe7bd2affe4bf28ffe0c027ffddc225ffd9c327ffd6c429c3d2c04bc3edbc2bf2efbe39f2e0b42fffe9c239fff0d24bff988606ff685100ffcfa82affebc341ffe1c53dffd8bf3fffb0932effab8a31ffa07f26ff99781fff88670eff816007ff775500ff6b4d00ff5c4202ff4e3a00ff3c3200ff342a00ff180700ff876f16ffffda55ffe7bb22ffe8bc27ffe6bc29ffe3bd2bffe0bf2dffdbc12fffd8c137d1d5c04317d0bd6117efbb2bf2efbe39f2e2b32ffff5c73effe6be2cfffddf43ffefcf34fffccf3dffe0b21dffe0ba1cfff1cd33fffbd247ffffd350ffffd754ffffd957fffacb49fffecf4dffffd350ffffd75cfffadc70ffe7d16bffd2c255ffc5b549ffd5c055fff4d55dffe0b623ffeabb1dffeab924ffe9bb29ffe5bd2bffe0be33f6d8be3c5fd8be3c00d5c04300d0bd6100efbb2bf2f1be39f2e4b32dffe6b82affe5bb28ffe5bd27ffe5bd27ffe9bb27ffe9bb27ffe8bc25ffe8bc27ffe9ba2bffebb92dffebb92dffedb82dffeeb92effeeba2cffedbc2dffe9be2dffe4c031ffe1c135ffdfc338ffe0c23affe2c13cffe7bf38ffecbd2bffedba25ffefb726ffebb525ffe1b22391ddb53303ddb53300ddb53300d5c04300d0bd6100f1bb29f2f1be37f2e4b32dffe6b928ffe7bb26ffe8bc27ffe8bc27ffe9bb27ffe9bb27ffebba27ffebba27ffedb927ffedb927ffeeb927ffeeb927fff1b928fff1b928fff1bb27ffedbd25ffeabf23ffe9c025ffeac02affeabf2effeabf30ffebbe2effedbe2cffefbd2cffeeb92ecffdcc492afdcc4900ddb53300d8be3c00d8be3c00d5c04300d0bd6100f2ba29f2f2bd37f2e5b22bffe7b828ffe7bb26ffe8bc27ffe8bc27ffe9bb27ffe9bb27ffebba27ffebba27ffedb927ffedb927ffeeb927ffeeb927fff1b928fff1b928fff2ba29fff2ba27fff1bb27fff1bb29fff0bc2efff0bc30ffefbc30ffedbe2effebbf2af4e8c02e5ae8c02e00fdcc4900e1b22300ddb53300ddb53300d8c13700d5c04300d0bd6100f2ba29f2f4bc37f2e5b22bffe7b828ffe7bb26ffe8bc27ffe8bc27ffe9bb27ffe9bb27ffebba27ffebba27ffedb927ffedb927ffeeb927ffeeb927fff1b928fff1b928fff4b929fff4b92bfff4b82fffefb32cfff3ba30fff0bc30ffedbd34ffeabd388be5bf3e02e5bf3e00e5bf3e00fdcc4900fdcc4900ddb53300d8be3c00d8be3c00d5c04300d0bd6100f2ba29f2f4bc37f2e5b22bffe7b828ffe7bb26ffe8bc27ffe8bc27ffe9bb27ffe9bb27ffebba27ffebba27ffedb927ffedb927ffeeb927ffeeb927fff1b928fff1b928fff3b828fff4b62effffc24bffecad35fff9c139ffedbd30bff5cd481cf5cd4800e5bf3e00e8c02e00e8c02e00fdcc4900e1b22300ddb53300ddb53300ddb53300d5c04300d0bd6100f2ba27f2f4bd35f2e5b22bffe6b926ffe5bb26ffe6bc29ffe8bb29ffe9bb27ffe9bb27ffebba27ffebba27ffedb927ffedb927ffeeb927ffeeb927fff1b928fff1b928fff3b828fff1b62dffefb338fff0b940efe1b1344ae1b13400f5cd4800eabd3800e5bf3e00e5bf3e00eeb92e00fdcc4900fdcc4900ddb53300d8be3c00d8be3c00d5c04300d0bd6100f2ba27f2f4bd35f2e5b329ffe4ba24ffe3bc26ffe5bd2bffe6bc2bffe8bb29ffe9bb27ffebba27ffedb927ffedb927ffedb927ffeeb927ffeeb927fff1b928fff1b928fff1b928ffeeb927ffe8b72185e8b72100e1b13400edbd3000f5cd4800f5cd4800e5bf3e00e8c02e00e8c02e00fdcc4900e1b22300ddb53300ddb53300d8c13700d5c04300d0bd6100f2ba27f2f4bd35f2e4b429ffe2bb24ffe0be26ffe3bd2dffe5bb31ffe8ba2fffebb92dffedb92bffedb927ffedbb21ffedbb21ffebbb23ffeab924ffecbb28ffebbb2cffebba32bbe7bb3619e7bb3600e7bb3600e1b13400e1b13400f5cd4800eabd3800e5bf3e00e5bf3e00e5bf3e00fdcc4900fdcc4900ddb53300d8be3c00d8be3c00d5c04300d0bd6100f3bc28f2f5be36f2e5b52affdfbd22ffddbf26ffe1bd31ffe5ba37ffe7b63cffeab53affebb632ffebb826ffebbb15ffe8be11ffe5bd1bffe2be22ffe0c025e3e3c33543e3c33500e7bb3600e8b72100e8b72100e1b13400edbd3000f5cd4800f5cd4800e5bf3e00e8c02e00e8c02e00fdcc4900e1b22300ddb53300ddb53300ddb53300d5c04300d0bd6100f3bc26f2f5be34f2e3b62affdebe24ffdcc026ffe0be31ffe3bb39ffe7b63cffe8b63affebb630ffebb924ffebbb15ffe8bd13ffe2be20feddbe2c71ddbe2c00e3c33500ebba3200e7bb3600e7bb3600f0b94000e1b13400e1b13400f5cd4800eabd3800e5bf3e00e5bf3e00eeb92e00fdcc4900fdcc4900ddb53300d8be3c00d8be3c00d5c04300d0bd6100f3bc26f2f5be34f2e5b52affdfbc26ffddbf28ffe1bd2fffe5bb33ffe5b930ffe8b92cffeaba22ffebba1dffedb91dffeaba22b4e3bb2a0fe3bb2a00e3bb2a00e3c33500e3c33500e7bb3600e8b72100e8b72100e1b13400edbd3000f5cd4800f5cd4800e5bf3e00e8c02e00e8c02e00fdcc4900e1b22300ddb53300ddb53300ffd20300ffd20300ffd30500f3bc26f2f5be34f2e5b52affe2ba2affe0bd2cffe3bd2fffe5bc2fffe5ba2cffe7ba28ffe7bb24ffe8b92ae0eab5383feab53800e3bb2a00ddbe2c00ddbe2c00e3c33500ebba3200e7bb3600e7bb3600e7bb3600e1b13400e1b13400f5cd4800eabd3800e5bf3e00e5bf3e00e5bf3e00fdcc4900ffd10100fed00000ffd10100ffd20300ffd20300ffd30500f3bc26f2f5be34f2e6b42cffe7b72cffe7b92effe6bb2dffe6bb2dffe3bb2effe5bb31fbefc7406cefc74000eab53800eaba2200e3bb2a00e3bb2a00e0c02500e3c33500e3c33500e7bb3600e8b72100e8b72100e1b13400edbd3000f5cd4800f5cd4800e5bf3e00ffd20800ffd20500ffd50700ffd10100fed00000ffd10100ffd20300ffd20300ffd30500f3bc24f2f5bf32f2e8b32cffeab52effebb72effe9ba2dffe8ba2fffefc541a4ebc34a0bebc34a00ebc34a00eab53800eab53800e3bb2a00ddbe2c00ddbe2c00e3c33500ebba3200e7bb3600e7bb3600f0b94000e1b13400ffd20d00ffd20d00ffd20d00ffd30b00ffd20800ffd20500ffd50700ffd10100fed00000ffd10100ffd20300ffd20300ffd30500f3bc24dcf5bf32dceab22affefb32cffefb52effedb82fd0e8b9352fe8b93500ebc34a00efc74000efc74000eab53800eaba2200e3bb2a00e3bb2a00e3bb2a00e3c33500e3c33500e7bb3600ffd10c00ffd00c00ffd10d00ffd20d00ffd20d00ffd20d00ffd30b00ffd20800ffd20500ffd50700ffd10100fed00000ffd10100ffd20300ffd20300ffd30500f0be264df4bf364de8b230ffecb333faebb53462ebb53400e8b93500efc54100ebc34a00ebc34a00e8b92a00eab53800eab53800e3bb2a00ddbe2c00ffcf0900ffcf0900ffd00b00ffd00b00ffd10c00ffd00c00ffd10d00ffd20d00ffd20d00ffd20d00ffd30b00ffd20800ffd20500ffd50700ffd10100fed00000ffd10100ffd20300ffd20300ffd30500eac02a4df0be404de5b13cffe3b83efadcb73f62dcb73f00dcb73f00dcb73f00ebc34a00efc74000efc74000eab53800ffcd0c00ffcf0900ffcf0900ffcf0900ffcf0900ffd00b00ffd00b00ffd10c00ffd00c00ffd10d00ffd20d00ffd20d00ffd20d00ffd30b00ffd20800ffd20500ffd50700ffd10100fed00000ffd10100ffd20300ffd20300ffd30500f5bc347ae3b834ffd9be3b41d8bf3d00dfbe4200e7b93c00e5bb2c00e5bb3200ecba2300eaba2600eac03100e1be3400dfb32400e4c42b00e4be3a00dbb85300d7bb6000eeb62dede6b92affe2c01ffee2c02686e5b93507e7b93c00e4b92900e5bb3200ecba2300eabc2400eac03100e1be3600dfb32400e4c42b00e4c03600dbb85300d7bb6000f2bd33f2e7b431ffe8b925ffebba1fffecb72fe0e8b93a49e5bb2c00e5bb3200ecba2300eaba2600eac03100e1be3400dfb32400e4c42b00e4be3a00dbb85300d7bb6000f0bd33f2e7b434ffecb52effeeb726fff0b629ffecb524ffe7b827aae5bb3212ecba2300eabc2400eac03100e1be3600dfb32400e4c42b00e4c03600dbb85300d7bb6000efbe33f2e7b52effebb62cffecb82bffedb929ffedb927ffedb925ffedba23ffedba2378eaba2600eac03100e1be3400dfb32400e4c42b00e4be3a00dbb85300d7bb6000eebd32f2e7b62fffedb82dffedb82bffedb929ffedb927ffedb925ffedba23ffedba23ffefba22d9eac03140e1be3600dfb32400e4c42b00e4c03600dbb85300d7bb6000edbe32f2e7b72fffeeb92effedb92bffedb929ffedb927ffedb925ffedba23ffedba23fff2b72affefba2afee4bc2fa0dfb32411e4c42b00e4be3a00dbb85300d7bb6000edbe32f2e8b527ffeab825fff3bc2bffe9b322ffebb426fff0b928ffebb522ffefb926ffedb92cffecc221ffecbb23fff5b724f3e7c12965e4c03600dbb85300d7bb6000edbe32f2e5b221ffeabc33fff9c13bffeab81afff5cd46fff1c54bffeec348ffe9bd42ffe1bb55ffd0bc3dffd7b842ffefb42fffebbc26ffe3bc3cccdbb85335d7bb6000edbe32f2e4c135ff6c550eff5e3d0affd6ba45ff4f3f09ff3a2d09ff312300ff241800ff190a00ff050000ff1b0900ffc7a22effe7bc2cffe2be32ffd7bb36ffd5bf4d89edbd32f2e3c037ff786912ff6f540effd6bd4dff5c4d18ff554013ff463407ff452f00ff382100ff201800ff1c0c01ffd9b437ffe7bc29ffe1be29ffdac12bf5d3c0446defbc32f2e9b931ffecc730ffefc530ffe4b920fff0c536fff5c740fff3c13bfff5c63dffedcd50ffd7c145ffdec148ffe7b925ffebb725ffe1b82aaddab9371cd2be5100f1bb30f2e5b529ffe7bb26ffe8bb27ffeaba27ffecb927ffedb927fff0b927fff1b927ffedbd25ffedbd2cffecbd2fffebbe2be7f0c0354fe8bb3400d9bb3800d2be5100f3bb30f2e6b529ffe7bb26ffe8bb27ffeaba27ffecb927ffedb927fff0b927fff2b828fff8bb3bfff4bd33fbf0c53e80e5bf3c00edc23b00e8bb3400dab93700d2be5100f3bb2ef2e4b627ffe4bb28ffe7bb28ffeaba27ffecb927ffedb927fff0b927fff1b828ffebb52cbde1b13320f4cb4600e5bf3c00f0c03500e8bb3400d9bb3800d2be5100f3bc2ef2e1b825ffe0bd2bffe6b834ffebb72fffecba1dffe8bc1dffe5bc25f1e7be335de7b92b00e1b13300f4cb4600e5bf3c00edc23b00e8bb3400dab93700d2be5100f4bd2df2e0b926ffdebd2cffe5b835ffe9b72bffebb91affe2bb2390e0bc2b03e6be3300e7b82b00e1b13300f4cb4600e5bf3c00f0c03500e8bb3400e1bf2d00e8c82a00f4bd2df2e4b62bffe3bb2dffe4ba2cffe9bf30c6e9b6372de3ba2a00debe2800e6be3300e7b92b00e1b13300f4cb4600e8c13700f5ca2300fed00000ffd10100ffd20300f4bd2be7eab32cffebb72defeabd3866ecc44601eab73a00e3ba2a00e0bc2b00e6be3300f3c52100f1c21e00ffd20d00ffd20a00ffd20500fed00000ffd10100ffd20300efbe314de6b337fce3b63922e4bc3e00ecc44600e9b63700f1c41a00fdce0a00ffcf0a00ffd00c00ffd10d00ffd20d00ffd20a00ffd20500fed00000ffd10100ffd20300e9b82fddddbf2f5fe5b93b00e4ba3100eabb2500e0bb3100e4c22e00d9b95800eab732f9ebb724ffeab62db2e5ba310deabb2500e0bb3100e4c22e00d9b95800eab830f9ecb72bffedb927ffedb923ffecba2467e0bb3100e4c22e00d9b95800e9b92df9eeb92affebb626ffecb722ffeeb82afee8ba27c0e5c12e22d9b95800e7bb2df9ab8121ffad8f28ff8f7324ff7b6229ff8b6e23ffe6bc2cf7d7ba4c74e9bc32f9af8f1fffaf9229ff9c7a21ff907627ff8f7526ffe6b927f2d6bd3b64eab72cf9e7bb26ffebb927ffefb927fff2bc2ffeecc035b1ecbe361bd5bb4200e9b829f9e5ba2cffebb923ffeaba25f8e8b62b59f1c84400ecbe3600d5bb4200e9b92af9e2b92fffe9b729a4dfbc2905e6b72b00f1c84300f2c42600f1c91600ebb72fd1e6ba384de9b83a00eec41a00f8ca1600ffd20c00fed10300ffd10100e6b92dcde5b8322fe5bb2b00debd4300ebb82cfcecb724ffe8b92989debd4308caa127fca18325ff896e26ffdebb36b0e7b929fcebb925fdedbe3481e0bc3c06e6b82fc5e7bb292af3c62400f7cb1000e9b729dde2bb3636e8b928dae9bf3032e6ba2d87
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+--- !u!1 &336995988
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 336995991}
+  - component: {fileID: 336995990}
+  - component: {fileID: 336995989}
+  - component: {fileID: 336995992}
+  - component: {fileID: 336995993}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &336995989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336995988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01614664b831546d2ae94a42149d80ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
+  m_MoveRepeatDelay: 0.5
+  m_MoveRepeatRate: 0.1
+  m_XRTrackingOrigin: {fileID: 0}
+  m_ActionsAsset: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_PointAction: {fileID: -1654692200621890270, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_MoveAction: {fileID: -8784545083839296357, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_SubmitAction: {fileID: 392368643174621059, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_CancelAction: {fileID: 7727032971491509709, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_LeftClickAction: {fileID: 3001919216989983466, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_MiddleClickAction: {fileID: -2185481485913320682, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_RightClickAction: {fileID: -4090225696740746782, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_ScrollWheelAction: {fileID: 6240969308177333660, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_TrackedDevicePositionAction: {fileID: 6564999863303420839, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_TrackedDeviceOrientationAction: {fileID: 7970375526676320489, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_DeselectOnBackgroundClick: 1
+  m_PointerBehavior: 0
+  m_CursorLockBehavior: 0
+  m_ScrollDeltaPerTick: 6
+--- !u!114 &336995990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336995988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &336995991
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336995988}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &336995992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336995988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a67013e2ec84cd5b717dd50ce17722, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &336995993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336995988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e3b93dcf5e44e97a9c6ee6d0bf960e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _sprite:
+  - {fileID: -154054476, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -1434457301, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 1903767125, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -781734499, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -1495184113, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 615532580, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -33706413, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -607529347, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 1813262867, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -1190594279, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 1925346868, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 441791337, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 309094228, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 951321398, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -520242606, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 1070768953, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 1298238366, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -1192614875, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 2020142295, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -1450634509, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 410119047, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -1451745698, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 208568814, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -2037284658, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 15587581, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: 1802927715, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -1631284944, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -1063636142, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -1169340851, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -1048800284, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -1875675730, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  - {fileID: -463008927, guid: 0e61e49305f6547fca49a58f5288e2f4, type: 3}
+  _texturePreview: {fileID: 330459520}
+--- !u!1 &677155469
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 677155472}
+  - component: {fileID: 677155471}
+  - component: {fileID: 677155470}
+  m_Layer: 0
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!81 &677155470
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 677155469}
+  m_Enabled: 1
+--- !u!20 &677155471
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 677155469}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_Iso: 200
+  m_ShutterSpeed: 0.005
+  m_Aperture: 16
+  m_FocusDistance: 10
+  m_FocalLength: 50
+  m_BladeCount: 5
+  m_Curvature: {x: 2, y: 11}
+  m_BarrelClipping: 0.25
+  m_Anamorphism: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 0
+  orthographic size: 5
+  m_Depth: -1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!4 &677155472
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 677155469}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1278912560
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1278912562}
+  - component: {fileID: 1278912561}
+  m_Layer: 0
+  m_Name: ViewMan
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1278912561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1278912560}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce2d40bdd14a4d04b880aa73307703b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SwitchViewValue: 1.21
+  MaxScaleMultiplier: 3.2
+  canvasScaler: {fileID: 0}
+  IsLandScape: 0
+  CurrentScale: {x: 0, y: 0}
+  ScaleMultiplier: {x: 0, y: 0}
+  NewScaleMultiplier: 0
+  ScaleFactor: 0
+--- !u!4 &1278912562
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1278912560}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1042.3958, y: 771.2992, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1596243228261820193
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138493447996134324, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6468136868789348771, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+      propertyPath: m_Name
+      value: Jdb_Extra_Canvas
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c16a6ccd3f1c0434fa2b8c22eb40607a, type: 3}
+--- !u!1660057539 &9223372036854775807
+SceneRoots:
+  m_ObjectHideFlags: 0
+  m_Roots:
+  - {fileID: 677155472}
+  - {fileID: 39926176}
+  - {fileID: 1596243228261820193}
+  - {fileID: 336995991}
+  - {fileID: 257116568}
+  - {fileID: 1278912562}

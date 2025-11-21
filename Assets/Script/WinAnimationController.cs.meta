@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 783c5131e2c4ee54d864f72e67741c28
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - payoutDisplayPrefab: {fileID: 2755702970263239974, guid: a24c121504b2a4b40bdd73f7037c3890, type: 3}
+  - payoutDisplayContainer: {instanceID: 0}
+  - topRowPosition: {instanceID: 0}
+  - middleRowPosition: {instanceID: 0}
+  - bottomRowPosition: {instanceID: 0}
+  - reel1TopPosition: {instanceID: 0}
+  - reel1MiddlePosition: {instanceID: 0}
+  - reel1BottomPosition: {instanceID: 0}
+  - reel2TopPosition: {instanceID: 0}
+  - reel2MiddlePosition: {instanceID: 0}
+  - reel2BottomPosition: {instanceID: 0}
+  - reel3TopPosition: {instanceID: 0}
+  - reel3MiddlePosition: {instanceID: 0}
+  - reel3BottomPosition: {instanceID: 0}
+  - topPositionHighlight: {instanceID: 0}
+  - middlePositionHighlight: {instanceID: 0}
+  - bottomPositionHighlight: {instanceID: 0}
+  - freeSpinHighlight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,875 @@
+fileFormatVersion: 2
+guid: 0e61e49305f6547fca49a58f5288e2f4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jdb_Atlas3_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 543
+        width: 65
+        height: 758
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972d66a935ad541eca595079e16f05e4
+      internalID: -154054476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 673
+        width: 358
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e4e82a4565e4246b6885e75911717e
+      internalID: -1434457301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 606
+        width: 37
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e7b8e6be9f646b888bb32350800a7c
+      internalID: 1903767125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 591
+        width: 239
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da5aae780134eafa129f4f554c9e6d
+      internalID: -781734499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2
+        width: 50
+        height: 667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e0ac2f91f7a4e52835632068fbf3cd
+      internalID: -1495184113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 571
+        width: 126
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f44ab6dfc8d4e568304af60e1524b9
+      internalID: 615532580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 553
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752714f2394a049dfbb4e9ad8ad7acb0
+      internalID: -33706413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 557
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1d6a336c2494fac9a1af7cf051b4bb
+      internalID: -607529347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 468
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e9cafd892f2465988cdb8a44e43c97
+      internalID: 1813262867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 527
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2e3cc36bc5541fba5c84fdc2f1b78c
+      internalID: -1190594279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 398
+        width: 112
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62018d67c32c4b42b4c1c2138a735c9
+      internalID: 1925346868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 527
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764e2db117c4a4d49a3fdc0060c05f08
+      internalID: 441791337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 471
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe5b9d3cbdee46a2851ebd9255feff7
+      internalID: 309094228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 412
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce8f53c9c8c045599b3bb010262edfa
+      internalID: 951321398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 421
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b42290968ca4cf792bd74b58e57a76
+      internalID: -520242606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 403
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b49a9a72d3445f8a87ef21e3c20183
+      internalID: 1070768953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 370
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b385a0bfdb4ad49108429c3cc090cbd3
+      internalID: 1298238366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 155
+        width: 78
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b642fbe8335bf4f40ad3b391931d11cb
+      internalID: -1192614875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 292
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b535ec8ca17ed4704a5415ae677c3e9a
+      internalID: 2020142295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 354
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176d18fc757e4493b9422d726de2b927
+      internalID: -1450634509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 321
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ca8912f71ba4e0aa4c4cc3d243283e
+      internalID: 410119047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 307
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfda169c64b241658c3b185230bcf05
+      internalID: -1451745698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 323
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd3a67f3b6624f648b97ee1f77ced54
+      internalID: 208568814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 189
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5926f3b5bba4d16aff2e231ee54883
+      internalID: -2037284658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 214
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbce466636ad4bba81b3d8516e58917
+      internalID: 15587581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7431f37e5a5d3422886d8d36539f34f2
+      internalID: 1802927715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 113
+        width: 101
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2091b341ee48b4a26a0d271eaeb678da
+      internalID: -1631284944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 64
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6469813f187be4f6ba50e3b6a9babc3c
+      internalID: -1063636142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 68
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702e9d9fd1e004e1eb62861fdb1c1db1
+      internalID: -1169340851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_38
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 64
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395000b6c295c439696fa96611c0a31f
+      internalID: -1048800284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 24
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a9d29c3cda048d3a47391ebc350b0c
+      internalID: -1875675730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jdb_Atlas3_40
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 24
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99467c013e5b44e29967bdc8a6d31c9c
+      internalID: -463008927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f0acd622492204437ac40063e1eef6db
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jdb_Atlas3_0: -154054476
+      Jdb_Atlas3_1: -1434457301
+      Jdb_Atlas3_10: -1190594279
+      Jdb_Atlas3_11: 1925346868
+      Jdb_Atlas3_12: 2115754844
+      Jdb_Atlas3_13: 441791337
+      Jdb_Atlas3_14: 309094228
+      Jdb_Atlas3_15: 951321398
+      Jdb_Atlas3_16: -315646815
+      Jdb_Atlas3_17: -520242606
+      Jdb_Atlas3_18: 1070768953
+      Jdb_Atlas3_19: -131178073
+      Jdb_Atlas3_2: 1903767125
+      Jdb_Atlas3_20: 1454732914
+      Jdb_Atlas3_21: 1298238366
+      Jdb_Atlas3_22: -1192614875
+      Jdb_Atlas3_23: 2020142295
+      Jdb_Atlas3_24: -1450634509
+      Jdb_Atlas3_25: -1256683183
+      Jdb_Atlas3_26: -1587472078
+      Jdb_Atlas3_27: -1463568215
+      Jdb_Atlas3_28: 410119047
+      Jdb_Atlas3_29: -1451745698
+      Jdb_Atlas3_3: -781734499
+      Jdb_Atlas3_30: 208568814
+      Jdb_Atlas3_31: 1853912698
+      Jdb_Atlas3_32: -2037284658
+      Jdb_Atlas3_33: 15587581
+      Jdb_Atlas3_34: 1802927715
+      Jdb_Atlas3_35: -1631284944
+      Jdb_Atlas3_36: -1063636142
+      Jdb_Atlas3_37: -1169340851
+      Jdb_Atlas3_38: -1048800284
+      Jdb_Atlas3_39: -1875675730
+      Jdb_Atlas3_4: -1495184113
+      Jdb_Atlas3_40: -463008927
+      Jdb_Atlas3_5: 615532580
+      Jdb_Atlas3_6: 555078934
+      Jdb_Atlas3_7: -33706413
+      Jdb_Atlas3_8: -607529347
+      Jdb_Atlas3_9: 1813262867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

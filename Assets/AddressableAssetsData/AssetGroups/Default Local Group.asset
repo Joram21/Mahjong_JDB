@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 23b0613724568554d97163fd5c07f2c3
+  m_SerializeEntries:
+  - m_GUID: 06d2f76de6dddef4586fae34f25bac37
+    m_Address: Assets/collected_mp3s/Dragon/ASN_Hit_05.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09079da72744fde429bc6d44291f8e6b
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/3e12aa88-5a3b-43e7-864b-3129d9a954f9.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0967328fc885a1f4c9d2b13abe3d1d9f
+    m_Address: Assets/collected_mp3s/Dragon/FSN_Background.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10972b0359825ea40bc7ef48f0b2987f
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/Sound_ScoringEnd.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11e15c19c1c828547a899afe3ece33a3
+    m_Address: Assets/collected_mp3s/Dragon/Sound_ScoringEnd.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 130e1851ee0aefe409d6131c8095c448
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/8380b0fd-42db-41db-8a7c-c84538af2842.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 138474b5c6ffb7a4d944c94197f740dd
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/ASN_IconWW.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c96655454cb8ae45a09da04dacb5b56
+    m_Address: Assets/collected_mp3s/Dragon/Sound_ButtonPress.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20317173e7dae5b4faf76b3dc8d08c3c
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/GSN_Background.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 215328703f5a3f746a304c86e9565868
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/71be1199-78f9-470c-aee2-35378e08e2a7.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2484814ff26a48a4c90c245249bcdfc5
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/Sound_ReelSpeedUp.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25d515bb05d2ccb40813aff0a0107c5e
+    m_Address: Assets/collected_mp3s/Dragon/Sound_SpinStop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b3c021ed878a1c45920fd9b91177d84
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/ASN_EmitParticle(big win).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39e552e07617b52439c2e4e15f3aae81
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/empty.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45cbb105aa3f03e4f8c114864a8e6179
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/ASN_Hit_05.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e940ae6d0806a2468786c5e1b8fde85
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/Sound_ButtonPress.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57a274b44c9a6b4438536b5f483e133e
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/CSN_BonusAlarm.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58f3f747755008c46be914525ba7bfec
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/ASN_IconC1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ca4e1a0d6cff55478b4746b43d62804
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/d374c5a4-ea00-4c53-bcfd-c7f28348aa14.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65c1097199717d049816d2f2595dc077
+    m_Address: Assets/collected_mp3s/Dragon/FSN_FreeSpinsResult.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9041964b4d78caa41b2876883347aed7
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/1dfe2609-548f-490f-ab23-5dcde0617595.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98e59ce73f24a4e4eadcdeadd219ef73
+    m_Address: Assets/collected_mp3s/Dragon/CSN_BonusAlarm.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dd1c62ac69571d4794c73b1c7089298
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/Sound_SpinStop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a43cd80adc8f3da46a876576517b28f1
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/FSN_Background.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac1f2dce1f01c4a4db5c0fb44d6ff9d9
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/ASN_Hit_03(Reel 5 freespin).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af0cc7a5ea8a27849ba14091dd5b11e7
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/a8085c91-7807-4458-8d2c-fed9f0aff217.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b05c3ec7f82121e4cb2985d606c4edd9
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/Sound_Scoring01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba6dea729b02bb54d8e2a72138be968f
+    m_Address: Assets/collected_mp3s/Dragon/ASN_Hit_02.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be420bfc4b67d984aa1807314023a902
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/00ed5156-2d2d-4f7b-9080-2195c3a35660.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2c9dedde8e406142896aabec647a5e0
+    m_Address: Assets/collected_mp3s/Dragon/ASN_Hit_01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4bcccc6cd8600844bf131c65750e114
+    m_Address: Assets/collected_mp3s/Dragon/ASN_Hit_03.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cda493d895843b944bc78409a2e567d0
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/FSN_FreeSpinsResult.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdb079f96889ef84e98a0dd34b3c6f40
+    m_Address: Assets/collected_mp3s/Dragon/Sound_SymbolWW2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfe6458e6fc3c844c896bdb5762697ae
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/ASN_Hit_04.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2da22ffc371f404cb2d59849b2a9e2e
+    m_Address: Assets/collected_mp3s/Dragon/Sound_Scoring07.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: defe27d3d4d104942bf1df025ae02011
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/ASN_Hit_01(Reel 3 free spin).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecb6c6aa3fab9ff44b41dca15e52ea19
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/Sound_JackpotWinner.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3643a5c95165d74ca390e9a882e851c
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/ASN_Hit_02(Reel 4 freespin).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fee9c540d0bcb1b45bf4efd98e93925b
+    m_Address: Assets/Mahjong assets/MahjongAssets/Audio/Sound_DoubleFlipCard.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4e7e2e9af0f0ef042a710b640c244f73, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 236150dc235eee5449752250ea8b845b, type: 2}
+    - {fileID: 11400000, guid: 0ca0cae294fc92e41967b5c4de285080, type: 2}
